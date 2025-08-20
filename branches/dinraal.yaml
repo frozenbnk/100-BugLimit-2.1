@@ -1,0 +1,249 @@
+- .item(Take horse):
+    coord: [-1553.5, -1785]
+- _Korok::K25
+- _Korok::K26
+- _Korok::K19
+- _Boss::Hinox::Blue:
+    comment: Use 3 fury
+    coord: [-436, -2006]
+- _Korok::K11
+- Start H22:
+    coord: [-1277,-3237]
+    icon: tots
+- _Korok::H22
+- _Korok::H14
+- _Korok::H05
+- _Shrine::ShaGehma
+- _Korok::H06
+- _Korok::H15
+- Tree Launch to Maze:
+    coord: [-1170.8333435058594,-3413.8333435058594]
+- _Chest<Diamond>:
+    coord: [-826.75, -3534.75]
+- Enter maze:
+    icon: tots
+    coord: [-772.125, -3528.25]
+- _Shrine::QazaTokki:
+    comment: .important(Get Leg Wraps)
+- _Tod::Morning:
+    comment: Make morning twice
+    notes: To make dragon appear
+    coord: [-850, -3531.125]
+- Use gale:
+    coord: [-862.25,-3534.75]
+    icon: medoh-done
+- _Korok::H16
+- Use gale:
+    coord: [-795.5,-3309.75]
+    icon: medoh-done
+- _Korok::K05
+- .boss(Shoot Dinraal):
+    comment: Get scale
+    notes: Use Gerudo Bow or Phrenic Bow
+    icon: tots
+- _Korok::K06
+- _Korok::K07
+- _Korok::K08
+- _Boss::Hinox::Blue:
+    comment: Use 3 fury
+    coord: [340, -3113]
+- _Shrine::KetohWawai:
+    comment: Get ancient core in shrine
+- Use gale to go out:
+    coord: [325,-3117]
+    icon: medoh-done
+- _Tod::Morning:
+    coord: [586,-3144]
+- _Korok::K04
+- .boss(Shoot Dinraal):
+    comment: Shoot scale
+    icon: tots
+    notes: Miss this one if he's too far away
+    coord: [713,-3595]
+- _Tod::Morning:
+    notes: Now the goal is to have parts of dinraal, so 4 horn, 3 scale, 2 claw and 2 fang for all of the run. You can farm all of these parts now, or avoid 2 parts and grab them at end of the run, the route will warn you when you could
+- _Korok::K01:
+    icon-priority: 0
+    notes: To get dragon parts, shoot on dragon where you want and instantly after the scale fall down of the dragon, make morning to make it appear
+- .boss(Shoot Dinraal):
+    comment: Shoot horn
+    icon: tots
+    coord: [229,-3613]
+- _Tod::Morning:
+    coord: [241.75, -3595]
+- _Snap<Lynel>:
+    coord: [255.5,-3597]
+- .boss(Kill Lynel):
+    comment: .gale()
+    gale: 1
+    icon: boss-dlc
+    notes: .link([How to kill lynel]https://youtu.be/fcDLoHGBqCU?si=xW3qsSKDl0jRgSY9&t=7109)
+    coord: [218, -3652]
+- Pick up .item(All Parts):
+    notes: For money and a quest at KF
+    icon: material
+- _Equipment::Weapon<Savage Lynel Crusher>:
+    notes: For killing things quickly
+- _Equipment::Bow<Savage Lynel Bow>
+- .boss(Shoot Dinraal):
+    comment: Shoot horn, pick up both
+    icon: tots
+    coord: [359, -3769.75]
+- _Tod::Morning:
+    coord: [336.75, -3780]
+- _Korok::K02:
+    icon-priority: 0
+- .boss(Shoot Dinraal):
+    comment: Shoot horn
+    icon: tots
+    coord: [624, -3648]
+- _Tod::Morning:
+    comment: Use tree wood
+    coord: [657.5, -3662]
+- _Material<Shard of Dinraal's Horn>:
+    coord: [818, -3593]
+- _Korok::K03:
+    icon-priority: 0
+- .boss(Shoot Dinraal):
+    comment: Shoot fang
+    icon: tots
+    coord: [1072.9852314915515,-3635.997614317866]
+- _Tod::Morning:
+    coord: [1134, -3667.5]
+- .boss(Shoot Dinraal):
+    comment: Shoot horn
+    icon: tots
+    coord: [1177.9852314915515,-3646.997614317866]
+- _Tod::Morning:
+    coord: [1244.5, -3619]
+- _Snap<Dinraal>:
+    coord: [1539.5, -3702.5]
+- _Equipment::Weapon<Great Flameblade>:
+    coord: [1595.5, -3656.75]
+- _Korok::E01:
+    icon-priority: 0
+    notes: Pick up parts on the way
+- .boss(Shoot Dinraal):
+    comment: Shoot scale
+    icon: tots
+    notes: We need 2 claws which we'll get later
+    coord: [1640, -3693.5]
+- _Snap<Eldin Leviathan>:
+    comment: Leviathan Bones
+    coord: [1677, -3667]
+- _Korok::E02:
+    comment: Smash deposits nearby
+- _Korok::E03
+- _Korok::E04
+- _Korok::E05
+- .boss(Gut Check Challenge):
+    icon: tots
+    coord: [2700.5, -3481]
+- _Shrine::GoraeTorr:
+    comment: Grab Frostblade in shrine
+- _Tod::Night:
+    comment: For Salvager chest and Kilton
+    coord: [2681.75, -3467]
+- _Boss::Hinox::Black:
+    comment: Use 3 fury
+    coord: [2915, -3560]
+- Tree Launch to A01:
+    coord: [2956.5,-3574.5]
+- _Korok::A01
+- Get A02 Rock:
+    coord: [3371,-3666]
+    icon: tots
+- _Korok::A02
+- Use gale:
+    coord: [3301,-3583]
+    icon: medoh-done
+- _Shrine::ZunaKai
+- .important(Spawn Salvager Chest):
+    comment: Watch north land
+    icon: tots
+- Use gale:
+    coord: [3322.5,-3434]
+    icon: medoh-done
+- _Korok::A03 
+- _Chest::Special<Salvager Vest>:
+    coord: [3629, -3520]
+- _Korok::A06
+- _Boss::Hinox::Black:
+    comment: Use Savage Lynel Crusher, Grab Claymore
+    coord: [3491.5, -3345]
+- _Snap<Kilton>:
+    notes: A Shady Customer
+    coord: [3248, -3441.5]
+    comment: .important(Snap kilton beford talk to him)
+- Talk to .npc(Kilton):
+    icon: npc
+- Use gale (during A05):
+    coord: [3178.5,-3330]
+    icon: medoh-done
+- _Korok::A05
+- _Korok::A10
+- _Korok::A11:
+    comment: Grab fairy
+- _Korok::A12
+- _Korok::A13
+- Push A07 Boulder:
+    coord: [4017,-3199.5]
+    icon: tots
+- _Korok::A07
+- _Korok::A04
+- _Korok::A18
+- _Material<Lizalfos Tail,1>:
+    icon: malice
+    coord: [3698, -2787.5]
+- _Korok::A21
+- _Memory::SpringofPower
+- .item(Offer scale):
+    icon: tots
+    coord: [3750.75, -2663]
+- Talk to .npc(statue):
+    comment: 4 stamina
+    icon: link
+    coord: [3758.375, -2676.25]
+- _Shrine::TutsuwaNima:
+    comment: Ice arrows + Axe, pick up parts
+- _Tod::Night:
+    coord: [3774.25, -2637.125]
+    comment: for Stalhorse and Stalnox
+- _Korok::A27
+- _Snap<Stalhorse>:
+    notes: Stalhorse, Pictured! ## NOTE: Would be a colon, but the parser doesn't like that :(
+    coord: [3931.5, -2344.5]
+- _Boss::Hinox::Stal:
+    comment: Use 3 fury
+    coord: [4088.5, -2242.5]
+- _Korok::A28
+- _Korok::A29:
+    comment: Use bomb arrows
+- .item(Smash deposits):
+    icon: chest
+    coord: [4447, -2569]
+- _Korok::A24
+- _Korok::A23
+- _Shrine::KatosaAug
+- Talk to .npc(Hoz):
+    comment: Talk twice
+    icon: npc
+    notes: A Shady Customer
+    coord: [4244.75, -2746.25]
+- Talk to .npc(Nobo):
+    icon: npc
+    notes: The Spring of Power
+    coord: [4234.5, -2751.25]
+- _Korok::A14:
+    comment: Use gale
+- _Snap<Guardian Stalker>:
+    notes: Guardian Slideshow
+    comment: Kill him + grab parts
+    coord: [4656,-3633.25]
+- Use gale:
+    coord: [4631.750120015677,-3668.426391640086]
+    icon: medoh-done
+- _Shrine::TuKaloh:
+    comment: .important(GET BARBARIAN HELM)
+- _Warp::Shrine::KatahChuki:
+    color: rgb(214, 39, 115)

@@ -1,0 +1,72 @@
+- _Korok::N31
+- .boss(Shoot Naydra):
+    coord: [3958.5, 1350.25]
+    icon: tots
+- Offer scale:
+    icon: material
+    coord: [3929.75, 1347.5]
+- _Korok::N24
+- .boss(Shoot Naydra):
+    coord: [3849.4997771365215,1308.193883442218]
+    icon: tots
+- .boss(Shoot Naydra):
+    icon: tots
+    coord: [3731, 1689.5]
+- _Korok::N39
+- _Korok::N30
+- _Korok::N37:
+    comment: Drownwarp
+- _Korok::N29:
+    comment: Drownwarp
+- _Korok::N22
+- _Boss::Hinox::Red:
+    comment: Use 3 fury
+    coord: [3248.5, 1341]
+- _Korok::N23:
+    comment: Do it beford hitting Naydra, else you'll be teleported
+- .boss(Shoot Naydra):
+    icon: tots
+    coord: [3428.999554273043,1436.3877668844361]
+- _Material<Naydra's Scale>:
+    comment: Shoot Naydra
+    movements:
+    - to: [3937, 1338.5]
+      warp: True
+- _Shrine::JitanSami
+- _Tod::Morning:
+    notes: after this farming, you should have 4 horn, 2 scale, 2 claw and 2 fang
+    coord: [3924.5,1298]
+- _Korok::N19:
+    notes: Farming is in two parts, after Dow Na'eh you should have 2 horn, 1 scale, 1 claw and 1 fang
+- Tree Launch up to N18:
+    coord: [4061,1131]
+- _Korok::N18
+- _Korok::N17
+- _Memory::LanayruRoad
+- _Snap<Naydra>:
+    coord: [3112,1214]
+- .boss(Shoot Naydra):
+    comment: Shoot horn
+    icon: tots
+    coord: [3153,1261]
+- _Tod::Morning:
+    coord: [2984, 1280]
+- _Korok::N21
+- _Korok::N20
+- _Boss::Hinox::Red:
+    comment: Use Royal Claymore
+    coord: [2429, 1182]
+- .boss(Shoot Naydra):
+    comment: Shoot fang
+    icon: tots
+    coord: [2535, 1138]
+- _Korok::N16
+- _Korok::N15
+- .boss(Shoot Naydra):
+    comment: Shoot claw
+    icon: tots
+    coord: [2652.5,1166]
+- _Shrine::DowNaeh:
+    notes: You should have 1 scale, 1 fang, 2 horn and 1 claw, if you have more, it's ok
+- _Warp::Tower::DuelingPeaks:
+    color: rgb(211, 237, 12)

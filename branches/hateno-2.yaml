@@ -1,0 +1,28 @@
+- Talk to .npc(Symin):
+    comment: Free picture
+    icon: npc
+    notes: SELL SOMETHING if you sold a lot of an item recently, otherwise you'll
+      get Compendium Glitch
+    coord: [3778.5, 2133.5]
+- Talk to .npc(Koyin):
+    notes: The Sheep Rustlers
+    icon: npc
+    coord: [3623.75, 2105.75]
+- _Tod::Noon:
+    coord: [3450.75, 2113.75]
+- Talk to .npc(Manny):
+    comment: Manny, Prima, Manny, Manny
+    icon: npc
+    notes: A Gift for My Beloved
+    coord: [3445.75, 2123.75]
+- Talk to .npc(Nebb):
+    icon: npc
+    notes: The Weapon Connoisseur
+    comment: Throw Windcleaver and frostspear after
+    coord: [3376, 2143.25]
+- Talk to .npc(Clavia):
+    icon: npc
+    notes: Secret of the Cedars
+    coord: [3425.5, 2163.5]
+- _Warp::Tower::Lanayru:
+    color: rgb(222, 222, 18)

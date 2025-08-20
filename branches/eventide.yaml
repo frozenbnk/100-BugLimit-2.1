@@ -1,0 +1,44 @@
+- Glide down to raft:
+    icon: tots
+    coord: [4232, 2442]
+- _Shrine::ChaasQeta:
+    comment: Eat attack up food, .important(GET CLIMBING GEAR)
+    notes: Strat is ice arrows, EOD spin attack, repeat. When you have only 1 ice
+      arrow, use shock arrows instead. Throw EOD for crit. Pick up battleaxe, sword
+      and parts.
+- _Korok::N66
+- Sail to Eventide:
+    icon: tots
+    notes: Drop .important(Sword, 4 arrows and traveller's bow)
+    coord: [4465, 3656]
+- Begin .important(Stranded on Eventide):
+    comment: Don't whistle sprint or you'll wake up the hinox
+    icon: npc
+- _Boss::Hinox::Blue:
+    comment: Kill with Guardian Sword
+    coord: [4533, 3710]
+- Return first orb:
+    comment: Get durians from tree
+    icon: tots
+    coord: [4475, 3745]
+- Deposit second orb:
+    comment: Stun bokos
+    icon: tots
+    notes: Get food on the way to the platform
+    movements:
+    - to: [4641, 3631.5]
+    - to: [4500.5, 3397.5]
+- Deposit third orb:
+    comment: Stasis slab
+    icon: tots
+    coord: [4671.5, 3742.5]
+- _Shrine::KorguChideh:
+    comment: Grab rupee in shrine
+- _Warp::Shrine::ShaiUtoh
+- Talk to .npc(Beedle):
+    comment: Buy arrows
+    icon: shop
+    notes: Optional if low on arrows
+    coord: [1559, 3521.5]
+- _Warp::Shrine::WahgoKatta:
+    color: yellow

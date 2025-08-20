@@ -1,0 +1,87 @@
+- _Shop<Arrow Shop>:
+    comment: Buy everything but bomb arrow
+    coord: [-3856.5, 2915.5]
+- Talk to .npc(Riju):
+    comment: Urbosa Memory
+    icon: npc-gerudo
+    coord: [-3867.25, 2947.625]
+- Enter Secret Club:
+    comment: 3 3 3 4
+    icon: npc-gerudo
+    notes: The Secret Club's Secret
+    coord: [-3779.875, 2921.375]
+- .enemy(Talk to the women inside for the quest):
+    icon-doc: npc-gerudo
+- Surf to .npc(Riju):
+    comment: Begin Naboris sequence
+    icon: npc-gerudo
+    coord: [-3426.5, 3119]
+- Sand seal to .npc(Pokki):
+    icon: npc-gerudo
+    notes: The Perfect Drink
+    coord: [-2974.5, 3769]
+- Shoot 4 feet:
+    icon: tots
+    coord: [-2570, 3717]
+- Enter Naboris:
+    icon: naboris-enter
+    counter: .dungeon-entry(SPLIT)
+- .boss(Complete Divine Beast):
+    comment: Use 3 Gale
+    icon: tots
+- _Snap<Thunderblight>
+- .boss(Thunderblight):
+    icon: calamity
+    comment: 2 Solo, stasis -> 2 body + 5 Head
+    notes: .link([1-cycle strat]https://youtu.be/fcDLoHGBqCU?t=4311)
+- .important(Urbosa's Fury):
+    icon: naboris-done
+    counter: .dungeon-complete(SPLIT)
+    movements:
+    - to: [-3773, 2855]
+      warp: True
+- Talk to .npc(Bozai):
+    icon: npc
+    notes: Talk twice for both boots
+    coord: [-3763, 2860.75]
+- _Tod::Noon:
+    coord: [-3833.75,2947.75]
+    icon-map: 0
+- Talk to .npc(Riju):
+    icon: npc-gerudo
+    coord: [-3882, 2961.75]
+- Examine Thunder Helm:
+    comment: Select "I want it!"
+    icon: tots
+    coord: [-3873.75,2971.5]
+    notes: The Thunder Helm
+- Talk to .npc(Liana):
+    icon: npc-gerudo
+    notes: The Search for Barta
+    coord: [-3913, 2931.875]
+- Talk to .npc(Rotana):
+    icon: npc-gerudo
+    notes: The Seven Heroines
+    coord: [-3878.1875, 2882]
+- Talk to .npc(Furosa):
+    icon: npc-gerudo
+    notes: The Perfect Drink
+    coord: [-3855.9375, 2856.6875]
+- Talk to .npc(Dalia):
+    icon: npc-gerudo
+    notes: The Mystery Polluter
+    coord: [-3833.625, 2854]
+- Talk to .npc(Calyban):
+    comment: Give 10 wildberry
+    icon: npc-gerudo
+    notes: The Mystery Polluter
+    coord: [-3915.625, 2954.25]
+- _Korok::W42
+- .important(Sand Seal Race):
+    icon: tots
+    notes: Equip climbing gear
+    coord: [-3791.5, 3121]
+- _Shrine::RaqaZunzo:
+    comment: Get Radiant Shield
+- _Warp::Shrine::MonyaToma:
+    color: blue

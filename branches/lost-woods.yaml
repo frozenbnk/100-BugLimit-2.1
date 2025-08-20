@@ -1,0 +1,96 @@
+- Through Lost Woods:
+    comment: Use torch if not sure
+    icon: tots
+    movements:
+    - to: [932, -1867]
+    - to: [548.5, -1941.75]
+- Talk to .npc(Tasho):
+    comment: Begin Oaki quest
+    icon: npc
+    coord: [258.375, -2255.375]
+- Talk to .npc(Walton):
+    icon: npc
+    notes: Apple, Sunshroom, Trout, Lynel Hoof, Pumpkin
+    comment: Drop all items in a single throw
+    coord: [420, -2180]
+- .rune(Activate Keo Ruug):
+    coord: [475.5, -2159.75]
+- Talk to .npc(Hestu):
+    comment: 7 weapon, 6 bow, 15 shield
+    icon: hestu
+    coord: [463, -2110]
+- Talk to .npc(statue):
+    icon: link
+    notes: 7 heart containers
+    coord: [417.75, -2178.75]
+- .important(Master Sword):
+    icon: equipment
+    coord: [434.25, -2110.75]
+- _Material<Silent Princess,1>:
+    icon: malice
+    coord: [430.375, -2115]
+- Talk to .npc(Kula):
+    icon: npc
+    notes: A Freezing Rod
+    coord: [420.75, -2135.125]
+    comment: Throw rod now
+- Talk to .npc(Peeks):
+    icon: npc
+    notes: Legendary Rabbit Trial
+    coord: [421.75, -2177.875]
+- _Shop<Buy Rushrooms>:
+    coord: [432.875, -2179.125]
+- _Material<Rushroom,4>:
+    icon: purple
+    comment: from above step
+- _Shop<Buy all arrows>:
+    coord: [418.5, -2183.375]
+- Sell ores:
+    comment: All but opal
+    icon: shop
+- _Material<Restless Cricket>:
+    comment: On the way to Oaki
+    notes: You should have 10 crickets
+    coord: [156.5, -2346]
+- _Material<Courser Bee Honey>:
+    coord: [178.25,-2311.5]
+- _Shrine::DaagChokah:
+    comment: Grab core
+- _Warp::Shrine::KeoRuug
+- _Shrine::KeoRuug:
+    notes: 1-5 and 2-3 on left, 2-1 and 2-2 on right
+- Talk to .npc(Damia):
+    icon: npc
+    notes: The Test of Wood
+    coord: [561, -2161]
+- _Shrine::MaagHalan:
+    comment: Grab giant ancient core in shrine
+- _Warp::Shrine::KeoRuug
+- Talk to .npc(Zooki):
+    icon: npc
+    notes: Trial of Second Sight
+    coord: [257, -1983.5]
+- _Shrine::KuhnSidajj:
+    comment: Grab giant ancient core in shrine
+- _Warp::Shrine::AkhVaquot
+- _Korok::T15
+- _Korok::T14:
+    comment: Bomb Arrow + Falcon Bow, From T15, shoot in the heart
+- _Material<Wood>:
+    notes: Farm until you have around 120 woods, 130 if not sur. save/reload to make wood respawn
+    movements: 
+      - [-3559.5833282470703,-1756.8333282470703]
+      - [-3290,-1751]
+- _Equipment::Weapon<2 Axe>:
+    comment: Throw old axes
+    coord: [-3251.75,-1745.75]
+- _Warp::Shrine::DahHesho
+- Talk to .npc(Hudson):
+    comment: Give 20 wood
+    icon: npc
+    notes: From the Ground Up
+    coord: [3987.75, -1602.125]
+- _Korok::A38
+- _Korok::A34
+- _Warp::Shrine::ShoDantu:
+    color: rgb(26, 204, 2400)

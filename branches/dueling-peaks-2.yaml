@@ -1,0 +1,63 @@
+- .item(Take horse):
+    coord: [1755.5, 1986.5]
+    icon: horse
+- _Korok::D52
+- _Korok::D51
+- .item(Park horse):
+    coord: [1754,1922]
+    icon: horse
+- Talk to .npc(Prissen):
+    icon: npc
+    comment: Talk twice
+    notes: Misko, the Great Bandit
+    coord: [1771, 1926.5]
+- Talk to .npc(Rensa):
+    icon: npc
+    notes: Wild Horses
+    coord: [1754.375, 1925.5]
+- Horse for Wild Horses:
+    coord: [1840,1821.5]
+    icon: horse
+- _Tod::Night:
+    coord: [1745.125, 1945.625]
+- _Discover<Big Twin Bridge>:
+    coord: [1682.5, 2029.5]
+- _Discover<Little Twin Bridge>:
+    coord: [1714.5, 2152.5]
+- _Boss::Hinox::Stal:
+    comment: Use 3 fury
+    coord: [1943.25, 2385.75]
+- Tree launch to cave:
+    icon: material
+    coord: [1946.75, 2592]
+- _Chest<Sapphire>:
+    notes: Misko, the Great Bandit
+    coord: [1954.75, 2602]
+- _Korok::D59
+- _Shrine::TotoSah:
+    comment: Grab shield in shrine
+- _Korok::D56
+- Tree Launch to D55:
+    coord: [1877.25,2400.5]
+- _Korok::D55
+- _Korok::F02
+- _Korok::F04
+- _Korok::F03
+- Tree Launch to Hinox:
+    coord: [1294.5,2423]
+- _Boss::Hinox::Red:
+    comment: Use Royal Claymore
+    coord: [1335.5, 2624.5]
+- _Korok::F10
+- Use gale:
+    coord: [1547.5,2905.5]
+    icon: medoh-done
+    comment: Use it during race
+- _Korok::F16
+- _Boss::Hinox::Red:
+    comment: Use royal claymore
+    coord: [1503, 3088.5]
+- _Korok::F15
+- _Korok::L46
+- _Korok::L58
+- _Warp::Tower::Faron

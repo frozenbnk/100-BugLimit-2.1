@@ -1,0 +1,76 @@
+- Talk to .npc(Gesane):
+    icon: npc-rito
+    notes: Face the Frost Talus
+    coord: [-3312.25, -1802.25]
+- Talk to .npc(Lester):
+    icon: npc
+    notes: Curry for What Ails You
+    coord: [-3268.75, -1772]
+- Tree Launch to Korok:
+    coord: [-3170,-1758]
+- _Korok::H72
+- _Korok::T18
+- _Korok::T19:
+    movements:
+      - [-3095,-1549.5]
+      - [-3151.5,-1563.5]
+    comment: Drownwarp
+- _Korok::T21:
+    movements:
+      - [-3095,-1549.5]
+      - [-3295.5,-1363]
+- _Chest<Topaz>:
+    coord: [-3298.25, -1361.5]
+- _Korok::T20
+- _Tower::Tabantha
+- _Korok::T24
+- _Boss::Talus::Rare:
+    comment: Use 3 fury
+    coord: [-3939, -1088]
+- _Korok::T23
+- _Korok::T26
+- _Korok::T27
+- _Korok::T28
+- _Korok::T29
+- _Korok::T30
+- Use gale:
+    coord: [-3520,-526]
+    icon: medoh-done
+- _Korok::T35
+- _Shrine::TenaKosah:
+    comment: Grab axe in shrine
+- _Memory::AncientColumns
+- _Korok::T37
+- _Korok::T32
+- _Shrine::KahOkeo
+- _Korok::T36
+- _Korok::R33
+- _Tod::Morning:
+    coord: [-4064.5,-215.5]
+    comment: For last dragon part
+- _Korok::R32
+- .boss(Shoot Dinraal):
+    comment: Shoot claw
+    icon: tots
+    notes: SHOULD have 4 horn 2 claw 2 scale 2 fang
+    coord: [-3944, -122]
+- _Korok::R35
+- _Korok::R34
+- Use gale:
+    coord: [-3538,-102.5]
+    icon: medoh-done 
+- _Korok::R36
+- _Korok::R46
+- Use gale:
+    coord: [-3286.5,111.5]
+    icon: medoh-done
+- _Boss::Talus::Rare:
+    comment: Use 3 fury
+    coord: [-3126, 71]
+- _Korok::R28
+- _Korok::R29
+- _Korok::R20
+- _Discover<Tanagar Canyon Course>:
+    coord: [-3134.5,-679]
+- _Korok::R12
+- _Warp::Shrine::ZeKasho

@@ -1,0 +1,110 @@
+- _Boss::Talus::Stone:
+    comment: Use hammer
+    coord: [1225, 2182]
+- _Korok::F01
+- _Korok::F05
+- _Material<Ancient Part>:
+    notes: What part you get is RNG dependent
+    coord: [1580.75, 2515.75]
+- _Material<Endura Shroom,2>:
+    coord: [1694, 2576.75]
+- _Material<Hearty Radish,1>:
+    coord: [1723.75, 2591.5]
+- _Material<Hearty Truffle,1>:
+    coord: [1761.5, 2725.5]
+- Tree Launch to cave:
+    coord: [1750,2730]
+- _Korok::F09
+- Smash ores in cave:
+    icon: chest
+    coord: [2138.75, 2608]
+- _Material<Kill Keese>:
+    icon: malice
+    coord: [2124,2600]
+    comment: For electric keese wing
+- _Material<Kill Keese>:
+    icon: malice
+    comment: For electric Keese wing
+    coord: [1765, 2782.5]
+- Make Campfire:
+    comment: For Farosh farming
+    icon: cook
+    coord: [1762.75, 2825.75]
+- .boss(Farm Farosh parts):
+    notes: 36 Horn, 2 Claw, 3 Scale, 1 Fang. Throw torch
+- .item(Dragon parts):
+    icon: tots
+    coord: [1876,2940.5]
+- _Chest<Phrenic Bow>:
+    coord: [1789,2948]
+- _Chest<Shock Arrow x5>
+- _Korok::F17
+- .item(Rest dragon parts):
+    icon: tots
+    coord: [1707.25, 3000.5]
+- _Korok::F26
+- _Korok::F28
+- _Material<Mighty Bananas,8>:
+    coord: [1846.25, 3240.25]
+- _Material<Hearty Radish,1>:
+    coord: [1845.5, 3283.5]
+- _Korok::F35:
+    comment: Grab luminous stone
+- _Korok::F42
+- _Material<Mighty Bananas,3>:
+    coord: [1577, 3557.5]
+- _Shrine::ShaiUtoh:
+    comment: Get core in shrine
+- _Equipment::Weapon<Woodcutter's Axe>:
+    comment: on top of horse head
+    notes: Thunder Magnet
+    coord: [1550.75, 3542.25]
+- _Korok::F41:
+    comment: Bellow horse's head, use bomb arrow
+- Talk to .npc(Cima):
+    icon: npc
+    comment: Next to horses
+    coord: [1546.25, 3533.75]
+- _Cook<Cook food>:
+    notes: 3 endura food, 1*5 bananas, 3 hearty food, 3 Speed food (3 lotus, 1 swift carrot and 1 farosh horn)
+- Talk to .npc(Beedle):
+    icon: npc
+    notes: Sell Ores, Buy Arrows and hightail lizard
+- Break ores:
+    icon: chest
+    coord: [1542.75, 3374.5]
+- _Korok::F34
+- _Tod::Morning:
+    comment: for beetles
+    coord: [1496.25, 3345.5]
+- _Material<Energetic Rhino Beetle,5>:
+    notes: .link([Beetle route]https://youtu.be/J3MWwgrkk9M?t=7319)
+    icon: malice
+- _Material<Hightail lizard>:
+    comment: .important(They are under rock, indicated by blue circle)
+    icon-doc: malice
+    icon-map: 0
+    movements:
+    - [1573.125,3298.25]
+    - [1592.5,3352.25]
+    - [1557.875,3343.375]
+    - [1519.375,3366.625]
+    - [1478.875,3343.75]
+    - [1458.25,3288.375]
+    markers:
+    - at: [1573.125,3298.25]
+    - at: [1592.5,3352.25]
+    - at: [1557.875,3343.375]
+    - at: [1519.375,3366.625]
+    - at: [1478.875,3343.75]
+    - at: [1458.25,3288.375]
+- Tree Launch up to Tower:
+    coord: [1357.25,3327.75]
+- _Tower::Faron
+- _Korok::F25
+- _Material<Hearty Durian,17>:
+    comment: For heal
+- _Material<Wood>:
+    notes: Both of these can vary
+    comment: Goal is to have 7-10
+- _Warp::Shrine::HaDahamar

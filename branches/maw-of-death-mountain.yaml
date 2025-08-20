@@ -1,0 +1,69 @@
+- Tree Launch to E45:
+    coord: [2178,-265]
+- _Korok::E45
+- _Shrine::TahMuhl:
+    comment: Get Stone Smasher in shrine
+- _Korok::E44
+- _Shrine::MoaKeet
+- _Equipment::Weapon<Double Axe>:
+    coord: [2597.25, -1153]
+- Talk to .npc(Mayro):
+    icon: npc
+    notes: A Landscape of a Stable
+    coord: [2620.5, -1145.5]
+- Talk to .npc(Gaile):
+    coord: [2612,-1119]
+    icon: npc
+    comment: Buy 3 fireproof elixir
+- Tree Launch to Rubbles:
+    coord: [2599,-1163]
+- _Korok::E43
+- _Korok::E41
+- _Discover<Maw of death mount>:
+    coord: [2408,-1267]
+- _Korok::E42
+- _Korok::E40
+- _Korok::E38
+- _Chest<Ice Arrow x10>:
+    coord: [2684, -1304.5]
+- _Material<Hearty Bass>:
+    coord: [2682.5, -1322.5]
+- Get E39 Rock:
+    icon: tots
+    coord: [2724,-1419]
+- _Korok::E39
+- _Shrine::SahDahaj
+- Use gale:
+    coord: [2688,-1588]
+    icon: medoh-done
+- Get E34 rock:
+    coord: [2655.5,-1625.5]
+    icon: tots
+- _Korok::E34
+- _Korok::E30
+- _Korok::E29
+- Kill guardian:
+    coord: [2413,-1651]
+    icon: tots
+- Use gale:
+    icon: medoh-done
+    coord: [2339.5,-1620]
+- Smash deposits:
+    icon: chest
+    coord: [2285,-1621]
+- _Korok::E32
+- _Korok::E33
+- Get E37 rock:
+    coord: [2279.7778079890613,-1237.0242951510195]
+    icon: tots
+- _Korok::E37
+- _Korok::E36
+- Climb up Death Mountain:
+    movements:
+    - to: [1904, -1269]
+    - to: [1880, -1332]
+    - to: [1862, -1429]
+    - to: [1801, -1501]
+- _Shrine::QuaRaym:
+    comment: Drink fireproof elixir until you have Flamebreaker Armor
+    color: rgb(237, 148, 52)

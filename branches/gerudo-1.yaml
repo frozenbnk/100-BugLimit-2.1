@@ -1,0 +1,259 @@
+- _Korok::W15
+- _Material<Rushroom,10>:
+    icon: purple
+    notes: On pillar and cliff as you climb to G34
+    coord: [-2818.375, 2251.5]
+- Talk to .npc(Sesami):
+    icon: npc
+    notes: Missing in Action
+    coord: [-2810.875, 2238.375]
+- _Korok::G34
+- _Shrine::DakoTah:
+    comment: Grab core and shield
+- _Chest<Ice Arrow x10>:
+    coord: [-3384, 2132]
+- _Korok::W17
+- _Korok::W29
+- Talk to .npc(Benja):
+    icon: npc
+    notes: Forbidden City Entry
+    coord: [-3805.5, 2826.75]
+- _Shrine::DaqoChisay
+- Shield surf to bazaar:
+    icon: shield
+    coord: [-3299.75, 2578.25]
+- Talk to .npc(Nobiro):
+    icon: npc
+    notes: The Eye of the Sandstorm
+    coord: [-3286.25, 2541]
+- _Cook<Cook food>:
+    notes: Elixir (winterwing butterfly + screw), 2 endura food, Hearty food
+    coord: [-3275.25, 2573.75]
+- .gale() Talk to .npc(Vilia):
+    comment: Buy clothes
+    icon: npc-gerudo
+    coord: [-3258.5, 2611.25]
+- Talk to .npc(Guy):
+    icon: npc-rito
+    notes: An Ice Guy
+    coord: [-3237.75, 2575.25]
+- _Memory::KaraKaraBazaar
+- _Warp::Shrine::DaqoChisay
+- Shield surf to .npc(Bozai):
+    icon: npc
+    notes: The Eight Heroine
+    coord: [-3764.75, 2876.25]
+- _Shop<Food shop>:
+    icon: shop
+    comment: Buy durians
+    coord: [-3819.75, 2878.75]
+- Talk to .npc(Isha):
+    icon: npc-gerudo
+    notes: Tools of the Trade
+    coord: [-3831.5, 2895.25]
+    comment: Accept Ruby
+- _Shop<Arrows shop>:
+    coord: [-3860, 2911.25]
+    comment: Sell ores but luminous stone and opal
+- _Tod::Noon:
+    coord: [-3833.5,2947.375]
+    notes: For quests
+- Talk to .npc(Riju):
+    icon: npc-gerudo
+    notes: Divine Beast Vah Naboris
+    coord: [-3882, 2961.75]
+- Talk to .npc(Teake):
+    comment: So we can enter the hideout
+    icon: npc-gerudo
+    coord: [-3922.5, 2939.5]
+- Talk to .npc(Malena):
+    icon: npc-gerudo
+    notes: Medicinal Molduga
+    coord: [-3908.5, 2916.5]
+- Talk to .npc(Laine):
+    icon: npc-gerudo
+    notes: The Silent Swordswomen
+    coord: [-3910, 2872.25]
+- Talk to .npc(Kohm):
+    comment: Take sand seal
+    icon: npc-gerudo
+    coord: [-3906.25, 2880]
+- _Korok::W36
+- _Korok::W28
+- _Korok::W18
+- _Korok::W13
+- _Korok::W09
+- .rune(Activate Kema Zoos):
+    coord: [-4670, 1987]
+- Sand Seal up Karusa Valley:
+    comment: Equip climbing gear
+    icon: shield
+    movements:
+    - to: [-4223, 2058]
+    - to: [-4347, 1753]
+    - to: [-4019.5, 1550]
+- _Equipment::Bow<Duplex Bow>:
+    coord: [-3665, 1353]
+- Enter .boss(Yiga Hideout):
+    icon: tots
+    notes: Follow VOD .link([here]https://youtu.be/J3MWwgrkk9M?t=23577)
+    coord: [-3597.5, 1381]
+- _Chest<300 Rupees>:
+    comment: Grab both
+    coord: [-3523.75, 1365]
+- _Snap<Master Kohga>:
+    coord: [-3466, 1344.5]
+- .boss(Kohga):
+    icon: calamity
+    notes: Use Royal Claymore
+    coord: [-3466, 1344.5]
+- _Chest::Special<Thunder Helm>:
+    coord: [-3453.25, 1340.5]
+- Use gale:
+    coord: [-3452.5,1339]
+    icon: medoh-done
+- _Korok::W01
+- _Shrine::ShoDantu:
+    comment: Grab stones outside shrine
+- Enter cave:
+    notes: Use windcleaver to move boulder
+    coord: [-3778.5, 1691.5]
+- _Equipment::Shield<Radiant Shield>:
+    coord: [-3786.5, 1671]
+- _Equipment::Weapon<Edge of Duality>:
+    coord: [-3796, 1665]
+- _Chest<Bomb Arrow x5>:
+    comment: On the left
+    coord: [-3802.5, 1672]
+- Use gale:
+    coord: [-3752.5,1643]
+    icon: medoh-done
+- _Korok::G26
+- _Material<10 Wildberry>:
+    coord: [-3659.333251953125,1528.6666870117188]
+    notes: For a quest, don't eat them
+- _Boss::Talus::Frost:
+    comment: Use GEB + Bomb arrows
+    notes: Smash deposits nearby
+    coord: [-3558.5, 1559.5]
+- Smash deposits:
+    icon: chest
+    coord: [-3178.5, 1474]
+- G22 Rock:
+    coord: [-3030.3333129882812,1459.1666717529297]
+    icon: tots
+- _Korok::G22
+- Use gale:
+    icon: medoh-done
+    coord: [-3051.5, 1313]
+- _Korok::G17
+- _Material<Lizalfos Tail,4>:
+    icon: malice
+    comment: Ice arrows + claymore
+    coord: [-3102, 1332]
+- _Material<Wood>:
+    coord: [-3105,1346.5]
+- _Chest<Fire arrow>:
+    coord: [-3121,1324.5]
+- _Shrine::KuhTakkar:
+    comment: 5-7 fire arrows to open
+- Run to .boss(Guardian):
+    icon: tots
+    notes: Kill him, Get parts
+    movements:
+    - to: [-3374.5, 1077.5]
+    - to: [-3496, 992]
+    - to: [-3618.5, 1032.5]
+- Tree Launch to Sword:
+    coord: [-3634.5,1009]
+- _Snap<Forgotten Sword>:
+    comment: A Forgotten Sword
+    coord: [-3931, 962]
+- _Boss::Talus::Rare:
+    comment: Use Stone Smasher
+    coord: [-3799, 1213]
+- _Material<Rushroom,1>:
+    icon: purple
+    coord: [-3823, 1256.5]
+- _Boss::Talus::Luminous:
+    comment: Use EoD
+    coord: [-4317.5, 1462]
+- Magnet Cube of G21:
+    coord: [-4284,1479.5]
+    icon: tots
+    comment: On Stone Pillar
+- _Korok::G21
+- _Korok::G16
+- _Korok::G20
+- _Korok::G15
+- _Korok::G11
+- _Material<Rushroom,2>:
+    icon: purple
+    coord: [-4230,1121.5]
+    comment: While doing G11
+- _Material<Lizalfos Tail,2>:
+    icon: malice
+    comment: Ice arrows and claymore
+    coord: [-4548.5, 948]
+- _Shrine::KemaKosassa:
+    notes: Ice arrow + club, grab parts, grab rupee in chest
+- _Korok::G07
+- _Korok::G08
+- _Korok::G04
+- _Korok::G05
+- _Korok::G01:
+    notes: Very dumb
+    comment: Boulder is on cliff next to Hole
+- _Discover<The Statue of The Eighth Heroine>:
+    coord: [-4381.5,529]
+- _Snap<The Eighth Heroine>:
+    comment: The Eighth Heroine
+    coord: [-4362, 457]
+- _Korok::G02
+- Rock of G03:
+    coord: [-3969.333779161778,331.66877321792526]
+    icon: tots
+- _Korok::G03:
+    notes: .link([How to do this korok ?] https://youtu.be/fcDLoHGBqCU?si=I6KuOC0E58Ph-YAh&t=1950)
+- _Korok::G06
+- _Shrine::KeehaYoog:
+    comment: Grab diamond in chest
+- Tree Launch up to G09:
+    coord: [-3822.5,764]
+- _Korok::G09
+- _Korok::G12
+- _Chest<Knight's Bow>:
+    coord: [-3188.25, 1033.75]
+    comment: Can be avoided
+- _Korok::G10
+- Use gale:
+    coord: [-2964,992]
+    icon: medoh-done
+- _Korok::G13
+- Use gale:
+    coord: [-2840,1125]
+    icon: medoh-done
+- Use gale:
+    coord: [-2819,1183]
+    icon: medoh-done
+- _Korok::G18
+- _Boss::Talus::Frost:
+    comment: Use GEB + Bomb Arrow
+    coord: [-2924.75, 1298.75]
+- Tree Launch to G23:
+    coord: [-2850,1351]
+- _Korok::G23
+- _Material<Rushroom,1>:
+    icon: purple
+    coord: [-2806.5, 1636]
+- _Korok::G27
+- _Material<Rushroom,1>:
+    icon: purple
+    coord: [-2477, 1702]
+- _Korok::G28
+- Rock of G24:
+    icon: tots
+    coord: [-2102,1524]
+- _Korok::G24
+- _Warp::Shrine::MyahmAgana:
+    color: white

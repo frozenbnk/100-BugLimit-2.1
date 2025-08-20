@@ -1,0 +1,246 @@
+- .item(Take horse):
+    coord: [-1551, -1781]
+- _Tod::Night:
+    coord: [-1541.5,-1798.25]
+    comment: For Stalnox
+- _Korok::K17
+- _Korok::K18
+- _Korok::K16
+- _Boss::Hinox::Stal:
+    comment: Use Claymore
+    notes: If Dinraal spawns get claw
+    coord: [-1289, -2108]
+- _Korok::K12
+- _Korok::K10
+- Use gale:
+    coord: [-1173.5,-2649]
+    icon: medoh-done
+- _Korok::H38
+- _Korok::H59
+- _Shrine::RinOyaa
+- _Tod::Morning:
+    coord: [-1666, -2552.5]
+- Talk to .npc(Juannelle):
+    icon: npc
+    notes: Stalhorse - Pictured!
+    coord: [-1652, -2587]
+- _Korok::H37
+- _Korok::H52
+- _Korok::H58
+- _Korok::H62
+- .boss(Shoot Dinraal):
+    comment: Shoot claw
+    icon: tots
+- _Discover<Pondo's Lodge>:
+    coord: [-2078, -2094.5]
+- Use gale:
+    coord: [-2133,-2050]
+    icon: medoh-done
+- _Tower::Hebra
+- _Korok::H61
+- _Korok::H57
+- .boss(Knock door down):
+    icon: tots
+    notes: .link([Snowball strat]https://youtu.be/CUhW2MnjNXU?t=14968)
+    coord: [-2462, -2287]
+- _Shrine::GeeHarah
+- _Warp::Tower::Hebra
+- _Material<Lizalfos Tail>:
+    icon: malice
+    coord: [-2274,-1900.5]
+- _Chest<Falcon Bow>:
+    coord: [-2309.5, -1879.5]
+- _Korok::H67
+- _Korok::H70
+- _Korok::H69
+- _Korok::R01
+- _Korok::K22
+- _Korok::R04
+- Use gale:
+    coord: [-2598,-1438]
+    icon: medoh-done
+- _Korok::H73
+- _Shrine::DunbaTaag
+- _Warp::Tower::Hebra
+- _Boss::Talus::Rare:
+    comment: Use Boulder Breaker
+    coord: [-2855, -1827]
+- _Korok::H66
+- _Korok::T05
+- _Discover<Hebra Trailhead Lodge>:
+    comment: Grab meteor rod inside
+    coord: [-3573.5, -2253.5]
+- _Boss::Talus::Frost:
+    comment: Use 3 gales
+    coord: [-3706, -2346.5]
+- _Korok::H54
+- _Korok::H55
+- _Material<Lizalfos Tail>:
+    icon: malice
+    coord: [-3261.5,-2389]
+- _Chest<Fire arrows>:
+    coord: [-3242.5,-2418.5]
+- Use gale:
+    coord: [-3248,-2442]
+    icon: medoh-done
+- _Korok::H43
+- Tree Launch to Tree:
+    coord: [-3283.5,-2632.5]
+- Tree Launch to Shrine:
+    coord: [-3193.189063091947,-3016.104886374033]
+- _Shrine::ShadaNaw
+- _Korok::H20
+- Tree Launch up to H28:
+    coord: [-2924.5,-3145]
+- _Korok::H28
+- _Tod::Night
+- Look .important(Sky East):
+    comment: Watch chest land
+    icon: tots
+- _Shrine::GomaAsaagh:
+    comment: Grab axe and claymore in shrine
+- _Korok::H35
+- _Chest::Special<Salvager's Trousers>:
+    coord: [-2608.5, -2653]
+- _Korok::H36
+- _Korok::H29
+- Use gale:
+    coord: [-2253.5,-2974]
+    icon: medoh-done
+- _Korok::H31
+- _Boss::Talus::Frost:
+    comment: Use 3 fury
+    coord: [-2153, -3081]
+- _Korok::H30
+- _Shrine::RokUwog
+- _Korok::H13
+- _Korok::H21
+- Tree Launch to H12
+- _Korok::H12
+- _Warp::Shrine::ShadaNaw
+- _Korok::H27
+- _Shrine::MozoShenno:
+    comment: Grab axe and diamond in shrine
+- _Korok::H26
+- _Korok::H25
+- _Warp::Shrine::ShadaNaw
+- Tree Launch to H10:
+    coord: [-3037,-3251.5]
+- _Korok::H10
+- _Korok::H11
+- _Korok::H09
+- _Korok::H04
+- _Tod::Night
+- _Boss::Hinox::Stal:
+    comment: Use Royal Claymore
+    coord: [-4268, -3775]
+- _Korok::H01
+- _Shrine::HiaMiu:
+    comment: Grab axe in shrine
+- _Discover<Sherfin's Secret Hot Spring>:
+    coord: [-4324, -3491]
+- Use gale:
+    coord: [-4302.5,-3524.5]
+    icon: medoh-done
+- _Korok::H07
+- _Korok::H08
+- _Korok::H02
+- _Warp::Shrine::ShadaNaw
+- Tree Launch to H19:
+    coord: [-3037,-3251.5]
+- _Korok::H19
+- _Chest<Bomb Arrow x5>:
+    coord: [-3670, -3290]
+- _Korok::H18
+- Open door:
+    icon: tots
+    coord: [-3724, -3545.5]
+- _Snap<Hebra Leviathan>:
+    comment: Leviathan Bones
+    coord: [-3930, -3623]
+- _Shrine::ToQuomo:
+    comment: Grab claymore in shrine
+- _Korok::H03
+- _Korok::H17:
+    movements:
+      - [-3792.6549224356527,-3539.6644673071314]
+      - [-3862.6549224356527,-3429.6644673071314]
+      - [-4162.654922435653,-3401.6644673071314]
+- _Korok::H24
+- Use gale:
+    coord: [-4275,-3144]
+    icon: medoh-done
+- Use gale:
+    coord: [-4302,-3162]
+    icon: medoh-done
+- _Korok::H23
+- _Korok::H32
+- _Korok::H40
+- _Boss::Hinox::Black:
+    comment: Use 3 fury
+    coord: [-4520, -2681]
+- Start T06 Race:
+   coord: [-4496,-2520]
+   icon: tots
+- _Korok::H53
+- _Korok::T06:
+    coord: [-4396,-2052]
+- _Korok::H60
+- Use gale:
+    coord: [-4483.222545813406,-2142.0974072771332]
+    icon: medoh-done
+- _Korok::T08
+- _Korok::T07
+- _Korok::T01
+- _Korok::H42
+- _Korok::H41
+- _Discover<Sturdina Secret Hot Spring>:
+    coord: [-4112, -2714]
+- _Korok::H39
+- .boss(Enter Cave):
+    coord: [-3985,-2545]
+- _Shrine::MakaRah:
+    comment: Grab bomb arrows in shrine
+- _Warp::Shrine::ShadaNaw
+- _Boss::Talus::Frost:
+    Comment: Use Boulder Breaker and Fire arrows
+    coord: [-3069, -2915]
+- _Korok::H33
+- Use gale:
+    coord: [-3116.75,-2831.75]
+    icon: medoh-done
+- _Korok::H34
+- _Korok::H44
+- _Korok::H46
+- Use gale:
+    coord: [-3020,-2507]
+    icon: medoh-done
+- _Korok::H48
+- Use gale:
+    coord: [-2948.5,-2441.5]
+    icon: medoh-done
+- _Korok::H49
+- _Korok::H50
+- _Korok::H47
+- _Korok::H45:
+    movements:
+      - [-2836.5,-2424]
+      - [-2736.5,-2584]
+- _Material<Lizalfos Tail>:
+    icon: malice
+    coord: [-2763,-2513]
+- _Korok::H51
+- _Korok::H56
+- _Shrine::LannoKooh
+- _Korok::H64
+- _Korok::H65
+- _Korok::T03:
+    comment: Drownwarp
+    movements:
+      - [-2954,-2072]
+      - [-2991,-2166]
+- _Korok::T11:
+    color: rgb(31, 192, 237)
+    movements:
+      - [-2954,-2072]
+      - [-3272,-1867]

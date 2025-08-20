@@ -1,0 +1,127 @@
+- _Tod::Noon
+- _Snap<Blupee>:
+    comment: Legendary Rabbit Trial
+    coord: [1892, 909]
+- _Material<Fairy,4>:
+    notes: 3 is more likely
+    coord: [1970, 858]
+- _Material<Endura Carrot,3>:
+    coord: [1997, 838]
+- _Material<Silent Princess,3>:
+    icon: malice
+    notes: You need 19 at end of the run
+    coord: [2015, 866]
+- .boss(Open fairy fountain):
+    comment: Take photo
+    icon: camera-plus
+    coord: [1971.5, 847]
+- Grab 2 cuccos:
+    icon-doc: tots
+    comment: Markers
+    markers:
+    - at: [1848,929.75]
+    - at: [1849.5,974]
+    - at: [1824,995.5]
+    - at: [1869.75,1003.75]
+    - at: [1900.25,981.75]
+    - at: [1911,1002.5]
+    - at: [1880.25,1044]
+    movements:
+    - [1848,929.75]
+    - [1849.5,974]
+- Talk to .npc(Cado):
+    icon: npc-sheika-male
+    notes: Flown The Coop
+    coord: [1835, 962.25]
+- Talk to .npc(Pikango):
+    comment: Twice
+    icon: npc-sheika-male
+    notes: Find the Fairy Fountain
+    coord: [1826.75, 989.25]
+- Pick up cucco:
+    icon-doc: tots
+    comment: Markers
+    coord: [1824,995.5]
+- Talk to .npc(Olkin):
+    comment: Fortified Pumpkin
+    icon: npc-sheika-male
+    coord: [1871.375, 977]
+- Pick up 2 cuccos:
+    comment: Markers
+    icon-doc: tots
+    movements:
+    - [1911,1002.5]
+    - [1900.25,981.75]
+- Talk to .npc(Cottla):
+    comment: Play tag
+    icon: npc
+    notes: Playtime With Cottla
+    coord: [1903.5, 970.25]
+- Light torches:
+    icon: tots
+    coord: [1827.625, 996]
+- _Tod::Night:
+    coord: [1822.5, 997.75]
+- Go to shop, buy carrots:
+    icon: shop
+    coord: [1794.2002325877747,1029.3852157282327]
+- _Material<Energetic Rhino Beetle,1>:
+    icon: malice
+    coord: [1811.1626162938874,1049.9426078641163]
+- Talk to .npc(Rola):
+    comment: also buy all arrows
+    icon: npc-sheika-female
+    coord: [1828, 1040.25]
+- Get 2 Last Cucco:
+    icon-doc: tots
+    movements:
+    - [1880.25,1044]
+    - [1869.75,1003.75]
+- Talk to .npc(Cado):
+    icon: npc-sheika-male
+    notes: Flown The Coop
+    coord: [1836.25, 962.25]
+- _Material<Sunset Firefly>:
+    coord: [1900.375,994.75]
+    notes: By Firefly's Light
+- Talk to .npc(Lasli):
+    comment: Talk twice, Drop fireflies
+    icon: npc-sheika-female
+    notes: By Firefly's Light
+    coord: [1900.25, 1035]
+- Talk to .npc(Impa) then .npc(Purah):
+    icon: npc-sheika-female
+    notes: The Stolen Heirloom
+    coord: [1777.25, 984.25]
+- _Tod::Night:
+    comment: For Lakna Rokee
+    coord: [1824, 999.25]
+- _Shrine::TalohNaeg:
+    notes: Get both chests, grab dropped parts and guardian sword
+- _Korok::D02
+- _Korok::D03
+- _Korok::D05
+- _Korok::D04
+- _Material<Energetic Rhino Beetle,1>:
+    coord: [1952.25,1061.4375]
+    icon: malice
+- _Korok::D06
+- _Korok::D08
+- Run to North Kakariko
+- _Korok::N08
+- _Korok::N10
+- _Korok::N07
+- _Korok::N09
+- Farm wood while waiting:
+    icon: material
+    notes: Be careful as you may alert Dorian with bombs
+    coord: [2015.75, 983.5]
+- .boss(Kill Bladmaster):
+    comment: Use Eightfold Blade
+    icon: tots
+    notes: .important(Kill him with a throw, else, he may don't drop him weapon. Grab windcleaver) for The Weapon Connoisseur
+    coord: [2029.75, 962]
+- _Shrine::LaknaRokee:
+    comment: Grab EOD in shrine
+- _Warp::TechLab::Hateno:
+    color: grey

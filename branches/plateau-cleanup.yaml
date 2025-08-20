@@ -1,0 +1,68 @@
+- _Chest<Soldier's Bow>:
+    color: cyan
+    coord: [-817, 1966]
+- _Korok::P11
+- _Material<Rushroom>:
+    coord: [-869.5,2170.25]
+    icon: purple
+    notes: .important(DON'T EAT THEM), you need 55 rushroom at mid-run, don't worry, you will have enough. They are indicated by a purple icon
+- _Material<Stamella Shroom,3>:
+    notes: .important(DON'T EAT/COOK THEM), you need 15 at end of the run
+    coord: [-912, 2213]
+- _Material<Courser Bee Honey,1>:
+    coord: [-905.5, 2205.75]
+- _Chest<Bomb Arrows>:
+    notes: Break crates for apples, acorns and arrows
+    coord: [-931.28, 179.28, 2206.72]
+- _Material<Seared Steak>:
+    coord: [-876.75, 2206]
+- _Material<Stamella Shroom,7>:
+    notes: Around the old man's hut
+    coord: [-796.5, 2258.75]
+- _Korok::P18
+- _Chest<Warm Doublet>:
+    coord: [-786.0, 193.52, 2255.5]
+- _Material<Baked Apple>:
+    coord: [-788.5,2260.5]
+    comment: Don't eat, for quest
+    icon: malice
+- _Equipment::Weapon<Torch>:
+    coord: [-803.5, 2265]
+- _Cook<Stamina Food>:
+    notes: Light pot with fire arrow, 3 skewers of 2 shrooms, 4 of 1 shroom, cook
+      2x 1 herb, cook 1x 2 hylian shroom
+    coord: [-804.5, 193.24, 2262.8]
+- _Chest<Bomb Arrows>:
+    coord: [-713.0, 190.88, 2311.0]
+- _Korok::L08
+- _Warp::SOR
+- _Korok::P09
+- _Korok::P06
+- _Material<Acorn,3>:
+    notes: Around tree stump
+    coord: [-945.5, 1703]
+- _Korok::P05
+- _Equipment::Bow<Traveller's Bow>:
+    notes: Grab the 10 arrows as well
+    coord: [-905.25, 1671.25]
+- _Korok::P04
+- _Material<Courser Bee Honey,1>:
+    coord: [-1057.63, 188.0, 1628.47]
+- _Material<Wood,2>
+- _Boss::Talus::Stone:
+    comment: Use hammer, Grab all ores dropped by Talus
+    notes: Get shrooms during talus death
+    coord: [-1087.75, 179.14, 1663.18]
+- Tree Launch up to P03:
+    coord: [-1270.5,1657.5]
+    notes: Grab fireflies if they spawn
+- _Korok::P03
+- _Material<Rushroom,3>:
+    coord: [-1545.5, 1650.5]
+    icon: purple
+- _Korok::C87
+- _Warp::Shrine::KehNamut
+- _Korok::P07
+- If you avoided the River of the Death's Korok, get it now
+- _Korok::C89
+- _Warp::Tower::GreatPlateau

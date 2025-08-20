@@ -1,0 +1,56 @@
+- _Korok::W34:
+    notes: follow makers to place rock
+    markers:
+    - [-1922.75,2672.5]
+    - [-1946.375,2681.875]
+- _Korok::W39
+- _Korok::W38
+- _Boss::Talus::Luminous:
+    comment: Use Stone Smasher
+    coord: [-2077, 3046]
+- _Korok::W48
+- _Korok::W49
+- _Material<Rushroom,1>:
+    icon: purple
+    coord: [-1920, 3263]
+- _Korok::W50
+- _Material<Rushroom>:
+    icon: purple
+    coord: [-2031,3339]
+- _Korok::W58
+- Enter Maze:
+    coord: [-1763,3470.5]
+    icon: tots
+- _Shrine::DilaMaag:
+    comment: .important(GET BARBARIAN ARMOUR)
+- _Tod::Noon:
+    coord: [-1798.25, 3439.5]
+- Use gale:
+    coord:  [-1792.5,3448]
+    icon: medoh-done
+- Use gale:
+    coord: [-1631.5,3429.5]
+    icon: medoh-done
+- _Korok::W54
+- _Korok::W59
+- _Korok::W64
+- _Material<Rushroom,2>:
+    icon: purple
+    coord: [-1351, 3708.5]
+- _Korok::W60
+- Use gale:
+    coord: [-1383,3668]
+    icon: medoh-done
+- .item(Read Entierly Mountain Log):
+    icon: tots
+    notes: Secret of the Snowy Peaks
+    coord: [-1387.5, 3497]
+- _Shrine::SumaSahma
+- _Korok::W53
+- _Korok::W41
+- _Material<Rushroom>:
+    icon: purple
+    coord: [-1520.5,2948]
+- _Korok::W45
+- _Korok::W46
+- _Warp::Shrine::SohKofi

@@ -1,0 +1,152 @@
+- _Korok::W02
+- _Korok::G25
+- _Korok::G30
+- _Korok::W04
+- _Korok::W05
+- _Korok::W03
+- _Korok::W06
+- _Tod::Noon
+- _Korok::G33
+- Use gale:
+    coord: [-3987.3307007994886,1935.7841656685387]
+    icon: medoh-done
+- _Korok::G31
+- Use gale:
+    coord: [-3830.3307007994886,1857.7841656685387]
+    icon: medoh-done
+- _Tower::Gerudo
+- Talk to .npc(Kass):
+    icon: npc-rito
+    notes: Sign of the Shadow
+    coord: [-3660.75, 1834]
+- .boss(Shoot Arrow):
+    icon: tots
+    coord: [-3582.5, 1986.25]
+- _Shrine::SasaKai
+- .item(Take ice block):
+    icon: material
+    notes: The Perfect Drink
+    movements:
+    - to: [-3752, 2276]
+    - to: [-3761, 2696]
+- Talk to .npc(Rhondson):
+    icon: npc-gerudo
+    notes: From the Ground Up
+    coord: [-3267.125, 2581.25]
+- _Equipment::Weapon<Double Axe>:
+    coord: [-3289.5, 2591]
+- _Warp::Shrine::DaqoChisay
+- Talk to .npc(Frelly):
+    icon: npc-gerudo
+    coord: [-3769.5,2926.125]
+    notes: Talk sand seal, It is faster to do this than run in the sand to all the koroks
+- _Korok::W43
+- _Korok::W37
+- _Korok::W44
+- _Korok::W52
+- _Material<Lizalfos Tail,1>:
+    icon: malice
+    comment: RNG, may not drop
+    coord: [-2626.25, 3306.25]
+- _Korok::W63
+- _Korok::W68
+- Talk to .npc(Pokki):
+    icon: npc-gerudo
+    notes: The Perfect Drink
+    coord: [-2974.5, 3766.5]
+- .boss(Activate Misae Suma)
+- _Material<Rushroom,2>:
+    icon: purple
+    coord: [-3009.5, 3767.5]
+- _Korok::W62
+- _Korok::W67
+- _Boss::Molduga:
+    comment: Use 3 fury
+    coord: [-3785, 3658]
+- _Korok::W57
+- _Korok::W56
+- _Boss::Molduga:
+    comment: Use savage lynel crusher
+    coord: [-4176, 3801]
+- _Korok::W66
+- _Material<Molduga Guts>:
+    coord: [-4153, 3796]
+- _Korok::W61
+- _Korok::W55
+- _Chest<Sapphire>:
+    coord: [-4611, 3558]
+- .boss(Activate Hawa Koth):
+    coord: [-4852.25, 3776.5]
+- .boss(Open fairy fountain):
+    icon: tots
+    coord: [-4870.25, 3824]
+- _Korok::W65
+- Talk to .npc(Barta):
+    icon: npc-gerudo
+    notes: The Search for Barta
+    coord: [-4818.75, 3727.5]
+- _Snap<Desert Leviathan>:
+    comment: Leviathan Bones
+    coord: [-4799, 3744]
+- _Korok::W51
+- _Boss::Molduga:
+    comment: Use savage lynel crusher
+    coord: [-4560, 3247]
+- _Material<Lizalfos Tail,1>:
+    icon: malice
+    coord: [-4617, 3198]
+- _Chest<Sapphire>:
+    coord: [-4185, 3077]
+- _Korok::W47
+- _Boss::Molduga:
+    coord: [-4838, 2805]
+    comment: Use savage lynel crusher
+- .item(Shoot 4 torches):
+    icon: tots
+    coord: [-4796, 2825]
+- _Shrine::ThoKayu
+- _Korok::W25:
+    comment: Get 2 voltfruit
+- _Warp::Shrine::KemaZoos
+- _Shrine::KemaZoos
+- _Warp::Shrine::HawaKoth
+- _Shrine::HawaKoth:
+    comment: Grab sapphire in shrine
+- _Warp::Shrine::MisaeSuma
+- _Shrine::MisaeSuma:
+    comment: Grab diamond in shrine
+- _Warp::Shrine::DaqoChisay
+- _Tod::Noon:
+    coord: [-3806.226960859607,2832.3694185482227]
+    comment: For npc appear
+- Talk to .npc(Dalia):
+    icon: npc-gerudo
+    notes: The Mystery Polluter
+    coord: [-3833.625, 2853.25]
+- Talk to .npc(Liana):
+    icon: npc-gerudo
+    notes: The Search for Barta
+    coord: [-3913.375, 2931.5]
+- Talk to .npc(Malena):
+    icon: npc-gerudo
+    notes: Medicinal Molduga
+    coord: [-3907.875, 2912.75]
+- Talk to .npc(Riju):
+    comment: Get .boss(Thunder Helm)
+    icon: npc-gerudo
+    notes: The Thunder Helm
+    coord: [-3882, 2961.75]
+- _Warp::Tower::Wasteland
+- _Korok::W30
+- _Korok::W35
+- .boss(Do Orb puzzle):
+    icon: tots
+    notes: .link([Diagram]https://media.discordapp.net/attachments/303990410500374528/790049019690614794/Heroines_Map_Directions.png?width=811&height=676)
+    coord: [-2654, 2824]
+- _Shrine::KorshOhu
+- Use gale:
+    coord: [-2690.25,2861.75]
+    icon: medoh-done
+- _Korok::W40
+- _Warp::TechLab::Hateno:
+    color: rgb(9, 227, 56)

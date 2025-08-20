@@ -1,0 +1,114 @@
+- _Boss::Hinox::Blue:
+    comment: Use RGC, break it
+    coord: [-690, -1313]
+- _Material<Wood>:
+    coord: [-709, -1311]
+    comment: Grab Axe as well
+- _Korok::K29
+- _Korok::R07
+- _Memory::IrchPlain
+- _Material<Fleet-Lotus Seeds,13>:
+    comment: Grab last frogs, if you have more than 5, it's perfect
+    coord: [-1159, -1350]
+- _Korok::K24
+- _Material<Fleet-Lotus Seeds,2>:
+    coord: [-1234, -1556]
+- _Material<Endura Shroom,3>
+- Tree Launch to Monya Toma:
+    coord: [-1241,-1577]
+- _Shrine::MonyaToma
+- _Korok::K23
+- _Discover<Serenne Stable>:
+    coord: [-1531, -1742.5]
+- _Material<Endura Shroom,3>
+- _Cook<Cook food>:
+    notes: 5 speed food, 1 hearty greens (1 big and regular radish), 6 stamina skewers
+    coord: [-1548.5, -1803.5]
+- .item(Take horse)
+- Break rubbles in front of shrine:
+    coord: [-1961,-1487.5]
+    icon: tots
+- _Shrine::MaagNorah:
+    comment: Grab chest in shrine
+- _Korok::R03:
+    comment: Go down one floor
+- _Boss::Talus::Luminous:
+    comment: Use Royal Claymore
+    coord: [-2170, -1596]
+- _Korok::R02
+- .item(Tame another horse):
+    notes: If that horse is better, keep, if not, leave
+    coord: [-2120, -1398]
+    icon: tots
+- _Korok::R06:
+    comment: On leafless tree
+- smash deposits:
+    icon: chest
+    coord: [-1900, -1260]
+- _Korok::R09
+- Tree Launch to tower:
+    coord: [-1861.5,-1176.5]
+- _Tower::Ridgeland
+- Shroom Launch up to first flower:
+    coord: [-1988,-550]
+- .boss(Grab 4 first flowers):
+    icon: tots
+    coord: [-2054.470773902878,-506.7189310441345]
+- _Korok::R24
+- _Korok::R23:
+    coord: [-2030.2207739028781,-547.7189310441345]
+- _Korok::R18
+- Shroom Launch to Pathern:
+    coord: [-1955.7207739028781,-613.2189310441345]
+- _Korok::R15
+- Full send red orb:
+    icon: tots
+    coord: [-2138, -909.5]
+- Full send orange orb:
+    icon: tots
+    coord: [-2270, -1038]
+- _Korok::R08
+- Shroom Launch to Thunder Plateau:
+    coord: [-2387,-1109]
+- Place orbs:
+    icon-doc: tots
+- _Shrine::TohYahsa
+- _Korok::R14
+- Shroom launch to New horse:
+    icon-doc: tots
+    movements:
+    - to: [-2407,-990]
+    - to: [-2120, -1398]
+- _Korok::R05
+- _Discover<Footrace Check-in>:
+    coord: [-2650, -1192]
+- _Material<Hearty Bass,5>:
+    comment: Shock them
+    icon: malice
+    notes: You need 15 at end of the run
+    coord: [-2698, -883]
+- _Chest<Shock Arrow x5>
+- _Korok::R13
+- _Korok::R17
+- _Discover<Tabantha Bridge Stable>:
+    coord: [-2913, -542]
+- _Material<Wood>
+- .item(Register horse)
+- Talk to .npc(Toren):
+    icon: npc
+    notes: A Gift For the Great Fairy
+    coord: [-2911.25, -566.75]
+- Talk to .npc(Beedle):
+    icon: shop
+    notes: An Ice Guy
+    comment: Sell all ores but luminous stones, opal and flint, buy arrows and 1 winterwing butterfly
+    coord: [-2907.25, -539.5]
+- _Tod::Night:
+    coord: [-2917, -540]
+- _Material<Wood>
+- Talk to .npc(Geggle):
+    icon: npc
+    notes: Cliffside Etchings
+    coord: [-2943.75, -500.25]
+- _Shrine::ShaeLoya:
+    comment: Grab bow and topaz

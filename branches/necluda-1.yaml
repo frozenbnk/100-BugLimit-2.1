@@ -1,0 +1,186 @@
+- _Korok::D42
+- .item(Take horse)
+- _Chest<Fire Arrow x5>:
+    coord: [1882, 1868.5]
+- Leave horse here:
+    coord: [2362,1802]
+    icon: horse
+    comment: Don't whistle until retake it
+- Tree launch to N27:
+    coord: [2345, 1847]
+- _Korok::N27
+- _Korok::N26
+- _Chest::Special<Fire Rod>:
+    notes: The Weapon Connosseur
+    comment: Kill Wizzrobe
+    coord: [2239, 1496.5]
+- Tree launch to ores:
+    comment: Break them
+    icon: chest
+    coord: [2407, 1639.5]
+- _Korok::N35
+- Climb up cliff
+- _Boss::Talus::Stone:
+    comment: Use hammer
+    coord: [2533.5, 1904]
+- _Material<Rushroom,3>:
+    icon: purple
+    coord: [2353.5, 1734]
+- _Korok::N33
+- _Korok::N34
+- _Material<Courser Bee Honey,3>:
+    coord: [2371.5, 1857.5]
+- _Material<Wood,3>:
+    coord: [2380.5, 1860.5]
+- _Tod::Night:
+    coord: [2393.25,1838.5]
+- Talk to .npc(Calip):
+    icon: npc
+    notes: The Cursed Statue
+    coord: [2395.5, 1837]
+- Take horse:
+    icon: horse
+    coord: [2362,1802]
+- .loc(Hit statue with arrow):
+    icon: tots
+    coord: [2514.75, 1531.5]
+- _Korok::N28
+- _Shrine::KamUrog
+- _Material<Hearty Radish,1>:
+    coord: [2597.5, 1612.5]
+- _Korok::N36
+- _Boss::Talus::Stone:
+    comment: Use hammer
+    coord: [3196.5, 1917.5]
+- _Korok::N38
+- _Korok::N41
+- _Chest<Arrow 10x>:
+    coord: [3020, 2014]
+- _Korok::N45
+- _Chest<Arrow 10x>:
+    coord: [2828, 2129]
+- _Korok::N46
+- _Chest<Shock Arrow x5>:
+    coord: [2954.25, 2230.5]
+- _Korok::N51
+- Climb up cliff:
+    notes: Whistle sprinting helps
+- _Korok::N52
+- _Korok::N50
+- _Korok::N49:
+    comment: From N50
+- Tree lauch to pot:
+    notes: kill boko by pot, use fire rod for lighting
+    coord: [2804.1666564941406,2390.6666717529297]
+- _Cook<Cook food>:
+    comment: Push boko out with traveler sword
+    notes: 6 speed food, 2 hearty food (radishes), 5 durian food (3x durians)
+    coord: [2671, 2164.5]
+- Tree Launch up to tower:
+    coord: [2665.25,2164.5]
+- _Tower::Hateno
+- _Korok::N58
+- _Korok::N59
+- Talk to .npc(Bolson):
+    icon: npc
+    notes: Hylian Homeowner
+    coord: [3312, 2301.5]
+- _Equipment::Weapon<Iron Sledgehammer>:
+    comment: Both on Link's house
+    coord: [3328, 2286.5]
+- _Korok::N53:
+    comment: At end of river
+- Talk to .npc(Cursed Statue):
+    comment: Ask for stamina
+    icon: npc
+    notes: The Statue's Bargain
+    coord: [3281, 2198]
+- _Shrine::MyahmAgana:
+    comment: Get bow in Apparatus
+- _Material<Hightail Lizard,5>:
+    icon-doc: malice
+    icon-map: 0
+    comment: Be discreet, on markers
+    markers:
+    - at: [3373.0625,2170.8125]
+    - at: [3380.9375,2115.6875]
+    - at: [3440.375,2079.25]
+    - at: [3481.875,2116.375]
+    - at: [3570.75,2203.75]
+    - at: [3639.5,2081.25]
+- Talk to .npc(Nebb):
+    comment: Show sword, rod and club, throw sword and club, keep rod
+    icon: npc
+    notes: The Weapon Connoisseur
+    movements: 
+    - [3373.0625,2170.8125]
+    - [3365, 2149]
+- Talk to .npc(Pruce):
+    comment: Sell all ores
+    icon: npc
+    notes: Buy bomb arrows (NOT singular ones), arrows and endura shrooms
+    coord: [3360,2173]
+- Talk to .npc(Medda):
+    icon: npc
+    notes: The Spring of Wisdom
+    movements: 
+    - [3380.9375,2115.6875]
+    - [3382, 2095]
+- _Material<Hot-Footed Frog,1>:
+    comment: For quest
+    coord: [3390, 2082.5]
+- _Equipment::Weapon<Wooden Mop>:
+    coord: [3370.5, 2078.5]
+- Talk to .npc(Koyin):
+    icon: npc
+    notes: The Sheep Rustlers
+    movements: 
+    - [3440.375,2079.25]
+    - [3481.875,2116.375]
+    - [3570.75,2203.75]
+    - [3639.5,2081.25]
+    - [3625.5, 2102.5]
+- _Tod::Noon:
+    comment: If raining
+- _Korok::N42
+- .rune(Flame quest with mop):
+    icon: equipment
+    coord: [3442, 1976.5]
+- Talk to .npc(Purah), get camera:
+    icon: camera-elite
+    coord: [3774, 2116.5]
+- _Material<Hightail Lizard>:
+    icon: malice
+    coord: [3766,2136]
+- _Snap<Sunshroom>:
+    coord: [3779,2139]
+- _Material<Hightail Lizard>:
+    icon: malice
+    comment: Only if you're under 15
+    coord: [3851.5, 2029]
+- _Korok::N43
+- _Warp::TechLab::Hateno:
+    color: lime
+- Cool Tree Launch to Ores:
+    coord: [3797.5,2108]
+- Grab ores:
+    icon: chest
+    coord: [4069, 2057]
+- _Material<Rushroom,2>:
+    icon: purple
+    coord: [4087, 2006.5]
+- _Korok::N44
+- _Korok::N32
+- _Shrine::TahnoOah:
+    comment: .important(GET CLIMBING BOOTS)
+- Tree Launch down to N25:
+    coord: [4234.25,1678.25]
+- _Korok::N25
+- _Material<Kill keese>:
+    notes: Grab Electric keese wing
+    coord: [4560,1768]
+    icon: malice
+    comment: Only if you have under than 15 wings
+- _Korok::N40
+- _Warp::Shrine::TalohNaeg:
+    color: red

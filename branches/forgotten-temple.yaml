@@ -1,0 +1,26 @@
+- Talk to .npc(brothers):
+    icon: npc
+    notes: Leviathan Bones
+    coord: [-1544.5, -1805.75]
+- Tree Launch to Loc:
+    coord: [-1578,-1765]
+- _Discover<Maritta Exchange Ruins>:
+    coord: [-1833, -1647]
+- Use gale:
+    coord: [-1995.5,-1683]
+    icon: medoh-done
+- _Korok::H71
+- _Korok::H68
+- _Korok::K20
+- _Korok::K21
+- Use gale:
+    coord: [-1673,-2097]
+    icon: medoh-done
+- _Korok::H63
+- _Korok::K15
+- _Korok::K14
+- Use gale:
+    coord: [-1437,-2243.5]
+    icon: medoh-done
+- _Korok::K13
+- _Shrine::RonaKachta

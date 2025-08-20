@@ -1,0 +1,68 @@
+- _Material<4 Silent Princess>:
+    coord: [-2328,481.5]
+    icon: malice
+- _Boss::Hinox::Stal:
+    coord: [-2226.3333129882812,576.6666564941406]
+    comment: Get Gerudo Weapon for Tree Launch
+- _Material<Diamond>:
+    coord: [-2236.5, 660.5]
+- _Korok::R70
+- _Material<Energetic Rhino Beetle>:
+    icon: malice
+    coord: [-2199.75,798.25]
+- Boulder of R73:
+    coord: [-2351.25,743.25]
+    icon: tots
+- _Korok::R73
+- _Material<Courser Bee Honey,3>:
+    coord: [-2466, 751]
+- _Korok::R75
+- _Korok::R76
+- _Korok::G14
+- _Korok::G19
+- _Warp::Shrine::KaamYatak
+- _Korok::C52
+- _Korok::C57
+- Tree Launch to R74:
+    coord: [-1258,706]
+- _Korok::R74
+- _Memory::SanidinPark
+- .boss(Tame Zelda's Horse):
+    icon: tots
+    coord: [-1680, 810]
+- _Korok::R79
+- _Korok::R78
+- _Korok::R77:
+    comment: Shoot Acorn as far as you can
+- _Korok::C59:
+    movements:
+      - [-1971.5,1091.5]
+      - [-1500.5,923.5]
+      - [-1512.5,909.5]
+- _Korok::C58
+- _Discover<Gleeok Bridge>:
+    coord: [-1325, 804]
+- _Korok::C66
+- _Korok::C72
+- _Korok::C78
+- Talk to .npc(Aliza):
+    icon: npc
+    notes: My Hero
+    coord: [-1382.5, 1279]
+- _Equipment::Weapon<Axe>:
+    coord: [-1412.5,1248.5]
+- .boss(Register Zelda's horse):
+    coord: [-1432, 1264]
+- Talk to .npc(Toffa):
+    icon: npc
+    notes: The Royal White Stallion
+    coord: [-1433, 1278.5]
+- Talk to .npc(Trott):
+    icon: npc
+    notes: A Rare Find
+    coord: [-1434, 1268.5]
+- Talk to .npc(Beedle):
+    notes: Sell ores but opal, Buy arrows
+    coord: [-1460.25,1267]
+    icon: npc
+- _Shrine::RotaOoh

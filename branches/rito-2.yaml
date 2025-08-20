@@ -1,0 +1,126 @@
+- _Korok::N47:
+    comment: On top of tech lab
+- _Korok::N60
+- Talk to .npc(Kass):
+    icon: npc-rito
+    notes: The Hero's Cache
+    coord: [3743.5, 2629]
+- _Chest<Gold Rupee>:
+    coord: [3776.25, 2640.25]
+- _Korok::N61
+- _Warp::TechLab::Hateno
+- _Korok::N48
+- Tree Launch to N55:
+    coord: [3941.5,2103.875]
+- _Korok::N55
+- _Korok::N56
+- _Boss::Talus::Stone:
+    comment: Use Bomb arrow + GEB
+    coord: [4562, 2467]
+- _Korok::N63
+- _Korok::N57
+- _Korok::N54
+- .enemy(Kill all enemies):
+    comment: Use 3 Fury
+    icon: tots
+    coord: [4100, 2360]
+- _Chest<Ruby>:
+    coord: [4123.5, 2375.25]
+- _Korok::N62
+- _Warp::Shrine::WahgoKatta
+- _Tod::Noon:
+    coord: [340, 1106.5]
+- _Cook<Cook Fruit Cake>:
+    comment: Wildberry, apple, sugar, wheat
+    coord: [312.5, 1110]
+- Talk to .npc(Gotter):
+    comment: Talk twice, Give fruitcake
+    icon: npc
+    notes: A Royal Recipe
+    coord: [320.75, 1110.75]
+- Talk to .npc(Parcy):
+    icon: npc
+    notes: The Royal Guard's Gear
+    coord: [342.25, 1089.5]
+- _Warp::Shrine::DahHesho
+- Talk to .npc(Hudson):
+    comment: Give 30 wood
+    icon: npc
+    notes: From the Ground Up
+    coord: [3988, -1602.5]
+- _Warp::Beast::Medoh
+- .boss(Shoot platform):
+    icon: tots
+    coord: [-3612,-1609.5]
+    notes: For Bareeda Naag
+    comment: Use fire arrow and GEB
+- Talk to .npc(Notts):
+    icon: npc-rito
+    notes: Recital at Warbler's Nest
+    coord: [-3633.6875, -1792.0625]
+- Talk to .npc(Amali):
+    icon: npc-rito
+    notes: Find Kheel
+    coord: [-3665.25, -1772.5]
+- Talk to .npc(Kotts):
+    icon: npc-rito
+    notes: Recital at Warbler's Nest
+    coord: [-3486.75, -1850]
+- Use gale:
+    coord: [-3546.25,-1805.75]
+    icon: medoh-done
+- Talk to .npc(Fyson):
+    icon: npc-rito
+    notes: From the Ground Up
+    coord: [-3588.25, -1803.5]
+- Talk to .npc(Jogo):
+    icon: npc
+    notes: The Spark of Romance
+    coord: [-3604, -1850.75]
+- Talk to .npc(Cree):
+    icon: npc-rito
+    notes: Recital at Warbler's Nest
+    coord: [-3643.75, -1816.75]
+- _Shop<Buy Arrows>
+- _Cook<Salmon Meuniere>:
+    comment: Wheat, butter and salmon
+    notes: Cook 2 speed food, 1x 5 truffle skewer, 1x 3 big hearty radish meal and
+      3 stamina food
+    coord: [-3592.25, -1805.25]
+- Talk to .npc(Genli):
+    comment: Give salmon meuniere
+    icon: npc-rito
+- Talk to .npc(Molli):
+    icon: npc-rito
+    notes: The Bird in the Mountains
+    coord: [-3620.5, -1795.75]
+- Talk to .npc(Juney):
+    icon: npc
+    notes: The Apple of My Eye
+    coord: [-3613.25, -1848]
+- Tree Launch to T10:
+    coord: [-3665.875,-1782.625]
+- _Korok::T10
+- _Korok::T17
+- Use gale:
+    coord: [-3697.5,-1676.75]
+    icon: medoh-done
+- _Shrine::BareedaNaag:
+    comment: Grab falcon bow and diamond
+- _Boss::Hinox::Black:
+    comment: Use 3 fury, Grab royal bow
+    coord: [-3791, -1557.5]
+- Talk to .npc(Kheel):
+    comment: For Korok Leaf
+    icon: npc-rito
+    coord: [-3969.5, -1750]
+- _Shrine::VooLota:
+    comment: 4 5 3 1 2
+- _Material<Spicy Pepper>:
+    coord: [-3975, -1692]
+- _Korok::T16
+- _Korok::T12
+- _Korok::T09
+- _Warp::TechLab::Hateno:
+    color: rgb(255, 71, 139)
+    notes: If you don't bought Ancient Short Sword, warp to Akkala Tech Lab and buy it

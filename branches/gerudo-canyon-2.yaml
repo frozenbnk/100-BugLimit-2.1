@@ -1,0 +1,78 @@
+- _Korok::C85
+- _Korok::R80
+- _Korok::C86
+- _Korok::G29
+- _Shrine::DahKaso
+- Use gale:
+    coord: [-1716.75,1724.75]
+    icon: medoh-done
+- _Boss::Hinox::Blue:
+    comment: Use 3 fury
+    coord: [-1698, 1776.5]
+- _Korok::C88:
+    comment: Drownwarp
+- _Discover<Gerudo Canyon Pass>:
+    coord: [-1648.75,2056]
+- .enemy(Take horse from boko):
+    icon: tots
+    coord: [-1623.25,2114]
+- Talk to .npc(Zyle):
+    icon: npc
+    notes: A Good-Sized Horse
+    movements:
+    - to: [-1638, 2260]
+    - to: [-1857, 2297]
+    - to: [-2009, 2086]
+    - to: [-2020, 1886]
+    - to: [-2031.5, 1878]
+- Use gale:
+    coord: [-2054,1978]
+    icon: medoh-done
+- .enemy(Kill bokos):
+    comment: Talk to Palme
+    icon: tots
+    coord: [-2061.25, 1984.25]
+- _Korok::W07
+- .enemy(Kill bokos):
+    comment: Talk to Oliff
+    icon: tots
+    coord: [-2056.25, 1741.75]
+- Talk to .npc(Bayge):
+    icon: npc-goron
+    notes: Test of Will
+    coord: [-2004, 1740.75]
+- _Shrine::JolooNah
+- Use gale:
+    coord: [-2039,1715]
+    icon: medoh-done
+- _Material<Lizalfos Tail,3>:
+    icon: malice
+    coord: [-2191, 1825.5]
+- .enemy(Kill bokos):
+    comment: Talk to Fiaxel
+    icon: tots
+    coord: [-2163.25, 1707.5]
+- .enemy(Kill bokos):
+    comment: Talk to Canolo
+    icon: tots
+    coord: [-2182.25, 1695.25]
+- _Korok::G32
+- _Korok::W08
+- _Korok::W10
+- _Material<Rushroom,4>:
+    icon: purple
+    notes: SHOULD have 55 by now
+    coord: [-2794, 2245.5]
+- Talk to .npc(Sesami):
+    icon: npc
+    notes: Missing in Action
+    coord: [-2817.5, 2238]
+- Talk to .npc(Pirob):
+    comment: Give 55 rushrooms
+    icon: npc
+    notes: Rushroom Rush!
+    coord: [-2790.5, 2237]
+- _Discover<Gerudo Desert Gateway>:
+    coord: [-2930.5, 2324]
+- _Warp::Shrine::TahnoOah:
+    color: rgb(173, 48, 240)

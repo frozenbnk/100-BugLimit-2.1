@@ -1,0 +1,117 @@
+- Talk to .npc(Hestu):
+    comment: 1 bow, 4 weapon
+    icon: hestu
+    coord: [393, 1040]
+- .item(Take horse):
+    coord: [329, 1088.5]
+- _Discover<Horwell Bridge>:
+    coord: [664,967.5]
+- _Shrine::HilaRao:
+    comment: Grab ice arrows in shrine
+- Jump into flowers:
+    comment: To have quest
+    notes: Watch Out for the Flowers
+    coord: [816, 842.5]
+- _Memory::HyruleField
+- _Korok::C51:
+    comment: Rock is on stone pillar
+- _Boss::Hinox::Blue:
+    comment: Use Guardian Axe
+    notes: Eat hearty meal for safety
+    coord: [408, 306]
+- _Korok::C56:
+    comment: Grab apples after
+- _Korok::C45:
+    comment: On Stone wall
+- _Korok::C44
+- _Discover<Mabe Village Ruins>:
+    coord: [-25, 129]
+- _Chest<Ice Arrow x10>:
+    coord: [-18.5, 193]
+- _Chest<Arrow x10>:
+    coord: [-20.5, 221.25]
+- _Korok::C50:
+    notes: Be careful
+- _Korok::C55
+- _Discover<Hyrule Garrison Ruins>:
+    coord: [-542,582.5]
+- Tree Launch up to C54:
+    coord: [-523.75,621.5]
+    comment: Guardian is dangerous, hide you
+- _Korok::C54
+- _Korok::C49
+- _Material<Big Hearty Radish>:
+    coord: [-239, -31.5]
+- _Korok::C35
+- _Snap<Guardian Stalker>:
+    coord: [-255,-212.5]
+- _Memory::SacredGrounds
+- _Korok::C43
+- _Korok::C42
+- _Korok::C40:
+    notes: Pick up endura shroom
+- _Korok::C41
+- _Korok::C31
+- _Chest<Fire Arrow x5>:
+    coord: [-566, -321]
+- _Shrine::KatahChuki:
+    comment: Snap guardian in shrine
+    notes: Kill guardian with ice arrow + axe, grab halberd in chest
+- _Chest<Bomb Arrow x5>:
+    coord: [-644.5, -438.25]
+- _Korok::C26
+- _Discover<Water Reservoir>:
+    coord: [-623, -513.5]
+- _Korok::C22
+- Smash ores under rock:
+    icon: chest
+    coord: [-749.5, -556]
+- _Korok::C21
+- _Korok::C20
+- _Korok::C14
+- .loc(Break wall with bomb)
+- _Shrine::NoyaNeha:
+    notes: Kill guardian with ice arrows + windcleaver, grab axe and parts
+- Smash crates in cave
+- _Tod::Night:
+    coord: [-956.5, -640]
+    coment: for Keese appear
+- _Korok::R19
+- _Korok::R16
+- _Material<Shoot keese group>:
+    coord: [-1274,-889]
+    comment: Use bomb arrow, Grab keese wing
+    notes: You should have 9 keese wings, else you can found keese at night at other moment
+- _Korok::R10
+- _Korok::R11
+- _Korok::C01
+- _Korok::C03
+- _Korok::C07:
+    notes: Grab truffles by platform
+- _Boss::Talus::Rare:
+    comment: Use hammer, grab ores
+    coord: [-778, -801]
+- _Equipment::Shield<Rusty Shield>:
+    comment: For C08
+    coord: [-620, -793]
+- _Chest<Ancient Arrow>:
+    coord: [-613, -783.5]
+- Kill .enemy(Guardian Stalker) with AA:
+    icon: tots
+    comment: shoot eye
+    coord: [-675.5, -787.5]
+- _Korok::C08
+- Grab .enemy(Guardian's Parts):
+    coord: [-675.5, -787.5]
+    icon: tots
+- _Korok::C15
+- _Discover<Moat Bridge>:
+    coord: [-613.5,-665]
+- _Chest<Bomb Arrow x5>:
+    coord: [-589, -633.5]
+- _Chest<Ice Arrow x5>:
+    coord: [-527.25, -694]
+- .boss(Watch castle cutscene):
+    color: red
+    icon: ganon
+    coord: [-479.75, -709.25]

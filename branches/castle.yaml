@@ -1,0 +1,127 @@
+- _Material<Luminous Stone,4>:
+    coord: [-386, -744.5]
+- _Chest<Diamond>:
+    comment: Smash crates
+    coord: [-411.25, -764]
+- _Cook<Cook food>:
+    notes: 3 stamina skewers, 3 stamina greens, 2 hearty skewers, 2 hearty greens
+      (1 big radish and 2 small radishes), 1 speed food, 1 attack up food
+    coord: [-409.25, -751]
+- Use the minecart to X13:
+    comment: Kill baby Taluses near the cart
+    icon: tots
+    coord: [-404, -779.75]
+- _Material<Bird Egg>:
+    coord: [-455.75, -924.5]
+- _Korok::X13
+- _Chest<Arrow x10>:
+    coord: [-415.75, -1050.25]
+- _Equipment::Weapon<Blizzard Rod>:
+    comment: .important(Don't break it or throw it, you need it at Korok Forest)
+    notes: A Freezing Rod
+    coord: [-459.25, -1062.625]
+- _Material<Lizalfos Tail,1>:
+    icon: malice
+    comment: Get horns + talons as well
+    notes: You need 45 at end of the run, you are close, don't avoid them
+    coord: [-458.5, -1052.75]
+- _Boss::Hinox::Stal:
+    notes: Use axe, hammer and halberd
+    coord: [-488.75, -1009.5]
+- Get Hylian Shield:
+    comment: Pick up stalnox weapons
+    icon: chest-special
+    coord: [-498.5, -1010.75]
+- _Korok::X08:
+    comment: Use rod on moblin
+- _Material<Lizalfos Tail,1>:
+    icon: malice
+    coord: [-327.125, -1002.125]
+- _Chest<Shard of Dinraal's Fang>:
+    coord: [-325.9375, -1002.1875]
+- _Chest<Ancient Arrow x3>:
+    coord: [-356.5, -921.5]
+- _Material<Lizalfos Tail>:
+    icon: malice
+    coord: [-319, -834.25]
+- _Korok::X19
+- _Chest<Ancient Arrow x3>:
+    coord: [-325.8125, -798.375]
+- _Chest<Shard of Naydra's Fang>:
+    coord: [-355, -810.125]
+- _Material<Lizalfos Tail,2>:
+    icon: malice
+    comment: Ice arrow them before chest
+    coord: [-360.875, -850.875]
+- _Equipment::Weapon<Royal Claymore>:
+    notes: Shock moblin, grab RGC
+    coord: [-381, -859.5]
+- _Korok::X18
+- Kill Lynel in gatehouse with AA:
+    icon: boss-dlc
+    coord: [-350.75, -830.375]
+- _Chest<Bomb Arrow x10>:
+    coord: [-345.875, -836.625]
+- _Chest<Bomb Arrow x5>:
+    coord: [-338.625, -821.625]
+- _Korok::X17
+- _Equipment::Bow<Royal Bow>:
+    coord: [-251.125, -742.125]
+- _Chest<Ancient Arrow x3>:
+    coord: [-255.25, -742.125]
+- _Korok::X22
+- _Korok::X21:
+    comment: You can shoot the emblem from balcony
+- _Discover<Observatory room>:
+    coord: [-253.10416793823242,-756.2708339691162]
+    comment: Jump in red stuff
+- _Korok::X23
+- _Equipment::Bow<Royal Bow>:
+    comment: on chandelier
+    coord: [-110.25, -845]
+- _Material<Grab food>:
+    notes: raw and gourmet meat (don't eat them), banana, shrooms
+- _Equipment::Weapon<Stone Smasher>:
+    comment: Use shock arrows
+    coord: [-145.25, -815.875]
+- _Material<Lizalfos Tail,1>:
+    icon: malice
+    coord: [-150.5, -897.25]
+- _Korok::X15
+- _Equipment::Weapon<Royal Claymore>:
+    comment: Use shock arrow
+    coord: [-193.5, -860.25]
+- _Equipment::Bow<Royal Guard's Bow>
+- _Equipment::Shield<Royal Guard's Shield>:
+    comment: For .enemy(The Royal Guard's Gear) Quest
+    notes: If you forgot it, you can grab a new shield in King's Study later in the run
+- Smash crates:
+    comment: Grab arrows
+    coord: [-184.25, -853.5]
+- AA lynel:
+    icon: boss-dlc
+    movements:
+    - to: [-99.75, -823.5]
+    - to: [-176.25, -835]
+    - to: [-157.5, -877]
+- _Chest<Ancient Arrow x3>:
+    coord: [-166.25, -879.25]
+- _Chest<Bomb Arrow x5>:
+    coord: [-151.5, -893.5]
+- _Korok::X16
+- _Korok::X14
+- _Korok::X07
+- _Discover<Princess Zelda's Study>:
+    coord: [-387, -994]
+- _Material<Silent Princess,1>:
+    coord: [-381.5, -997]
+- _Memory::HyruleCastle
+- _Snap<Guardian Skywatcher>:
+    comment: Guardian Slideshow
+- _Equipment::Weapon<Edge of Duality>:
+    coord: [-323.25, -995]
+- _Equipment::Bow<Royal  Guard's Bow>:
+    comment: Grab 5 Arrows as well
+- _Korok::X09
+- _Korok::X04:
+    color: Orange

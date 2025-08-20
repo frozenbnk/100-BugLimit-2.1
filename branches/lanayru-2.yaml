@@ -1,0 +1,163 @@
+- _Korok::Z44
+- _Korok::Z43
+- Zora Monument:
+    comment: 2/10
+    icon: npc-zora-male
+    coord: [2834, 197]
+- _Discover<Oren Bridge>:
+    coord: [2875.5, 29.25]
+- Zora Monument:
+    comment: .gale() 3/10
+    gale: 1
+    icon: npc-zora-male
+    coord: [2877, -29]
+- Zora Monument:
+    comment: 4/10
+    icon: npc-zora-male
+    coord: [2868.5, -71.5]
+- _Discover<Luto's Crossing>:
+    coord: [3008.75, -29.5]
+- Zora Monument:
+    comment: 5/10
+    icon: npc-zora-male
+    coord: [3068, -213.5]
+- _Material<Fleet-Lotus Seeds,2>:
+    coord: [3120, -36]
+- _Korok::Z32
+- Use gale:
+    coord: [3148.5,-12.5]
+    icon: medoh-done
+- Zora Monument:
+    comment: 6/10
+    icon: npc-zora-male
+    coord: [3095, 69.5]
+- _Material<Fleet-Lotus Seeds,4>:
+    coord: [3194.25, 16]
+- _Korok::Z33
+- Zora Monument:
+    comment: 7/10
+    icon: npc-zora-male
+    coord: [3262, 39.5]
+- _Korok::Z34
+- Zora Monument:
+    comment: 8/10
+    icon: npc-zora-male
+    coord: [3393.25, 54]
+- Tree Launch to Z25:
+    coord: [3392.5,82.5]
+- _Korok::Z25
+- Zora Monument:
+    comment: 9/10
+    icon: npc-zora-male
+    coord: [3256, -147]
+- Use gale:
+    coord: [3226,-311]
+    icon: medoh-done
+- .boss(Slam pedestal with Lightscale Trident):
+    icon: tots
+    comment: Throw Lightscale Trident after
+    coord: [3080, -459]
+- _Shrine::DagahKeek:
+    comment: Grab Rupee in shrine
+- Tree Launch up to Monument:
+    coord: [3139,-561.5]
+- Zora Monument:
+    comment: 10/10
+    icon: npc-zora-male
+    coord: [3210.5, -727.5]
+- Waterfall Up:
+    coord: [3356.5,-807.5]
+    icon: tots
+- _Korok::Z17
+- _Korok::Z16
+- Talk to .npc(Finley):
+    icon: npc-zora-female
+    notes: Special Delivery
+    coord: [3263, -480.125]
+- Talk to .npc(Torfeau):
+    icon: npc-zora-female
+    notes: The Giant of Ralis Pond
+    coord: [3324.75, -561]
+- Talk to .npc(Jiahto):
+    icon: npc-zora-male
+    notes: Zora Stone Monuments
+    coord: [3340, -562.375]
+- Talk to .npc(Kapson):
+    icon: npc-zora-male
+    notes: From the Ground Up
+    coord: [3326.75, -523.5]
+- Talk to .npc(Laflat):
+    icon: npc-zora-female
+    notes: Lynel Safari
+    coord: [3345.25, -505]
+- Tree Launch up to trees:
+    coord: [3532.75,-473]
+- Tree Launch to Talus:
+    coord: [3681.25,-412]
+- _Boss::Talus::Luminous:
+    comment: Use 3 fury
+    coord: [3991.5, -163]
+- _Korok::Z27
+- _Korok::Z28
+- Use gale:
+    coord: [4226.670860626567,-180.873021314972]
+    icon: medoh-done
+- _Korok::Z19
+- _Korok::Z20
+- _Material<Hearty Bass,4>:
+    icon: malice
+    coord: [4095, -492]
+- _Korok::A57
+- _Korok::A55
+- Tree Launch to Ballons:
+    coord: [4028.5513615635336,-708.7622890124221]
+- _Korok::A54
+- Tree Launch to Trees:
+    coord: [4050.5,-880]
+- _Korok::A53
+- _Shrine::KenaiShakah:
+    comment: Grab sapphire in shrine
+- _Korok::A56
+- _Korok::Z09
+- _Korok::Z10
+- _Korok::Z07
+- _Material<Rushroom,5>:
+    icon: purple
+    coord: [4687.5, -1037]
+- _Korok::Z06
+- _Shrine::KahMael:
+    comment: Grab diamond in shrine
+- Use gale:
+    coord: [4690.5,-1301.5]
+    icon: medoh-done
+- _Korok::Z01
+- _Chest<5 Fire arrow>:
+    coord: [4689,-1434.875]
+- Tree Launch to Tarrey Town:
+    movements:
+    - to: [4681.5, -1397]
+    - to: [4314, -1517]
+    - to: [3962.5, -1645]
+- Talk to .npc(Hudson):
+    icon: npc
+    notes: From the Ground Up
+    coord: [3987.375, -1601.625]
+- _Korok::A44:
+    comment: .gale()
+    gale: 1
+- _Korok::A35
+- .boss(Read Pedestal):
+    comment: While doing A35
+    icon: tots
+    notes: Into the Vortex
+    coord: [4624.5, -1830.5]
+- _Korok::A36
+- .boss(Place Orb):
+    icon: tots
+    notes: .link([Strat]https://youtu.be/M27Chx0LEuk?t=2442)
+    coord: [4528, -2110.5]
+- _Korok::A33
+- _Shrine::RitaagZumo:
+    comment: Grab giant anceint core in shrine
+- _Warp::Shrine::HaDahamar:
+    color: rgb(12, 18, 133)

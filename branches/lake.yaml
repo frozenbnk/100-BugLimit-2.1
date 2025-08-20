@@ -1,0 +1,269 @@
+- _Tod::Morning
+- _Material<Energetic Rhino Beetle,5>:
+    icon: malice
+    notes: .link([Beetle route]https://youtu.be/CUhW2MnjNXU?t=7668)
+    coord: [1532.5, 3278.5]
+- Use gale:
+    coord: [1476.5,3482.5]
+    icon: medoh-done
+- _Korok::F40
+- _Korok::F39
+- _Korok::F24
+- _Material<Hearty Bass>:
+    coord: [1051.5,3222.5]
+- _Discover<Sarjon Bridge>:
+    coord: [1027,3234]
+- _Korok::F23
+- _Korok::L61
+- _Korok::L66
+- Use gale:
+    coord: [878,3449.25]
+    icon: medoh-done
+- _Korok::L72
+- _Boss::Hinox::Blue:
+    comment: Use Royal Claymore
+    coord: [1041, 3489]
+- _Korok::F38
+- Rock of L79:
+    coord: [1019,3661.5]
+    icon: tots
+- _Korok::L79
+- _Korok::L92
+- _Korok::L78
+- .boss(Open fairy fountain):
+    icon: tots
+    coord: [797, 3717]
+- _Korok::L77
+- _Discover<Horse God Bridge>:
+    coord: [591.5,3721]
+- _Korok::L76
+- _Korok::L75
+- .item(Take horse):
+    coord: [532, 3434]
+    icon: horse
+- .enemy(Kill the 5 bokos):
+    icon: tots
+    coord: [505, 3321]
+- Talk to .npc(Perosa):
+    icon: npc
+    notes: The Horseback Hoodlums
+    coord: [521.25, 3468.75]
+- Talk to .npc(Blynne):
+    comment: Do minigame twice
+    icon: npc
+    coord: [517, 3444.5]
+- _Shrine::KaoMakagh:
+    comment: Get bow and rupee in shrine
+- _Korok::L65:
+    notes: Don't do an ordinal windbomb, this is bug limit
+- .item(Park horse):
+    icon: tots
+    notes: Don't whistle sprint until after Ishto Soh
+    coord: [156, 3433]
+- _Korok::L70
+- _Korok::L71
+- _Korok::L74
+- _Korok::L73
+- _Korok::L91
+- _Korok::L90
+- _Korok::L89
+- _Korok::L88
+- _Korok::L87
+- Talk to .npc(Loone):
+    icon: npc
+    notes: Guardian Slideshow
+    coord: [105.5, 3810.5]
+- .boss(Deposit orb):
+    icon: tots
+    coord: [119.5, 3850]
+- _Shrine::ShoqaTatone
+- _Korok::L86
+- _Chest<10 Arrows>:
+    coord: [-9.25,3682]
+    comment: Can be avoided if you have enough arrows
+- _Korok::L85
+- _Korok::L83
+- _Korok::L84
+- _Korok::L82
+- _Korok::L81
+- _Korok::L80
+- _Boss::Hinox::Stal:
+    comment: Use 3 fury
+    coord: [-1069, 3786]
+- _Korok::L68
+- _Korok::L67
+- _Shrine::IshtoSoh
+- Use gale:
+    coord: [-1002,3309]
+    icon: medoh-done
+- _Boss::Talus::Luminous:
+    comment: Use Stone smasher
+    coord: [-959, 3234]
+- _Korok::L37
+- Tree Launch to L23:
+    coord: [-949,2916]
+- _Korok::L23
+- Tree Launch to L21
+- _Korok::L21
+- _Korok::L22
+- .item(Tame Giant Horse):
+    comment: Can't be freeze
+    icon: tots
+    coord: [-1179, 2679]
+- _Korok::L36
+- _Korok::L41
+- _Korok::L62
+- Use gale:
+    coord: [-849,3554]
+    icon: medoh-done
+- _Korok::L69
+- Talk to .npc(Straia):
+    icon: npc
+    notes: Hunt for the Giant Horse
+    coord: [-206, 3504]
+- _Tod::Night
+- _Boss::Hinox::Stal:
+    coord: [92, 3389]
+- Use gale:
+    coord: [119.5,3377.5]
+    icon: medoh-done
+- .item(Get horse):
+    coord: [156, 3433]
+- _Shop<Talk to Jini>:
+    notes: Sell all ancient parts but small cores and all ores but 55 opal, Buy all arrows
+    coord: [-197, 3508]
+- .important(Horse Minigames):
+    comment: Play twice
+    icon: tots
+    coord: [-245, 3462]
+- _Korok::L64
+- Start L47:
+    coord: [-276.8125,3316.375]
+    icon: tots
+- _Korok::L63
+- _Korok::L47:
+    coord: [-387.625,3151.625]
+- _Korok::L38
+- _Korok::L24
+- _Korok::L25
+- _Shrine::YaNaga
+- Talk to .npc(Mei):
+    icon: npc-zora-female
+    notes: A Wife Washed Away
+    coord: [-221, 2564]
+- Use gale:
+    coord: [-64.875,2493.25]
+    icon: medoh-done
+- _Korok::L26
+- _Korok::L15
+- _Korok::L14
+- Use gale:
+    coord: [-59,2408.5]
+    icon: medoh-done
+- _Korok::L09
+- Use gale:
+    coord: [-108,2319.5]
+    icon: medoh-done
+- _Tod::Night:
+    notes: For Savager's Headwear
+    coord: [-128,2308.25]
+- _Korok::D54
+- _Korok::L27
+- Look .important(South-East):
+    notes: For Savager's Headwear
+- _Korok::L30
+- _Korok::L31
+- _Chest::Special<Salavger's Headwear>:
+    coord: [126.5, 2712.5]
+- _Korok::L39
+- _Korok::L40
+- _Korok::L44
+- _Korok::L42
+- _Korok::L43
+- Push L51 Boulder:
+    coord: [109,2954.5]
+    icon: tots
+- _Korok::L51
+- _Material<Lizalfos Tail,2>:
+    icon: malice
+    coord: [23.5, 2980.5]
+- _Snap<White Lizalfos>:
+    notes: Can also get tail from blue lizalfos here
+    coord: [-40.5, 2977]
+- Use gale:
+    coord: [-12.75,2976.25]
+    icon: medoh-done
+- _Tower::Lake
+- _Korok::L48
+- _Korok::L49
+- _Korok::L50
+- _Korok::L59
+- _Korok::L60
+- _Korok::L52
+- _Shrine::PumaagNitae
+- _Korok::L53
+- _Korok::L55
+- _Korok::L57
+- Talk to .npc(Kass):
+    icon: npc-rito
+    notes: The Serpent's Jaws
+    coord: [791, 3079]
+- _Korok::L56
+- _Discover<Zonai Ruins>:
+    coord: [845.5,2952]
+- _Korok::L54
+- Use gale:
+    coord: [687.5,2954.5]
+    icon: medoh-done
+- _Korok::L45
+- _Korok::L35
+- _Korok::L33
+- _Korok::L28
+- _Korok::L17
+- _Korok::L18
+- _Korok::L29
+- _Korok::L34
+- Tree Launch to L19:
+    comment: Pretty hard
+    coord: [823.9175768796676,2537.977311808583]
+- _Korok::L19
+- Magnet Cube of L20:
+    coord: [933,2403.5]
+    icon: tots
+- _Korok::L20
+- _Discover<Spring of Courage>:
+    coord: [877, 2390.75]
+- Offer scale:
+    icon: material
+    coord: [877.5,2359]
+- _Shrine::ShaeKatha
+- Use gale:
+    coord: [848.979511319345,2366.3844853902974]
+    icon: medoh-done
+- _Korok::L13
+- Boulder of L07:
+    coord: [1045.5,2185.5]
+    icon: tots
+- _Korok::L07
+- _Korok::D50
+- _Korok::L12
+- Boulder of L16:
+    coord: [345.238106810335,2362.715275799025]
+    icon: tots
+- _Korok::L16
+- _Korok::L11
+- _Korok::L05
+- _Korok::L06
+- _Korok::L02
+- _Boss::Talus::Stone:
+    comment: Use 3 fury
+    coord: [352.5, 1910]
+- _Korok::L01
+- _Memory::WestNecluda
+- _Korok::D45
+- _Korok::L04
+- _Korok::L03
+- _Korok::L10
+- _Korok::L32
+- _Warp::Shrine::MonyaToma:
+    color: rgb(227, 11, 180)

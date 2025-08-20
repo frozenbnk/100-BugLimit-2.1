@@ -1,0 +1,163 @@
+- _Korok::Z13
+- _Korok::Z12
+- _Korok::K35
+- _Korok::Z02
+- _Korok::Z03
+- _Korok::C13
+- _Korok::Z11
+- _Korok::Z21
+- Tree Launch from Z21 to Z29:
+    coord: [1122.4046460519494,-220.425183018604]
+- _Korok::Z29
+- Tree Launch to C46:
+    coord: [1173,-75]
+- _Korok::C46
+- _Korok::C34
+- _Boss::Hinox::Blue:
+    comment: Use 3 fury
+    coord: [629.75, -303.75]
+- Tree Launch to Beach:
+    coord: [586.5,-284]
+- _Korok::C18
+- _Korok::C23
+- _Korok::C19
+- _Korok::C12
+- _Shrine::NamikaOzz:
+    notes: Grab axe and frostpear, .important(DON'T THROW THEM) you need them for The Weapon Connoisseur
+- _Korok::C09
+- _Korok::C11
+- _Tod::Night:
+    coord: [627.5, -733.5]
+- _Korok::C06
+- _Boss::Talus::Luminous:
+    comment: Use stone smasher
+    coord: [779.5, -1020]
+- _Korok::C02
+- .boss(Avoid Guardians):
+    comment: You can also kill them
+    icon: tots
+    coord: [427, -1087.5]
+- _Discover<Helmhead Bridge>:
+    coord: [398.5, -1164]
+- _Korok::C05
+- _Boss::Hinox::Stal:
+    comment: Use Savage Lynel Crusher
+    coord: [277.5, -933]
+- _Korok::C04
+- _Korok::C10
+- _Korok::C17
+- Use gale:
+    coord: [97.125,-450.875]
+    icon: medoh-done
+- _Korok::C29
+- _Korok::C28
+- _Korok::C33
+- _Korok::C32
+- _Korok::C27
+- _Korok::C16
+- _Korok::X25
+- _Korok::X24
+- _Korok::X20
+- Use gale:
+    coord: [-39,-944]
+    icon: medoh-done
+- _Korok::X12
+- .boss(Enter Cave):
+    coord: [-101.5,-1141.5]
+- _Korok::X11
+- _Boss::Talus::Rare:
+    comment: Use 3 fury
+    coord: [-133, -953]
+- _Chest<Shard of Farosh's Fang>:
+    coord: [-130.75, -948.5]
+- _Material<Lizalfos Tail,5>:
+    icon: malice
+    comment: In all Library room
+    coord: [-155.5, -1076.25]
+- _Discover<King's Study>:
+    coord: [-172.75, -1117.75]
+    comment: Grab chest inside
+    notes: You can grab Royal Guard Shield if you don't have already one
+- .boss(Push Metal Door):
+    coord: [-164.5,-1082.5]
+- _Equipment::Weapon<Stone Smasher>:
+    coord: [-197.5,-1078]
+- .boss(Push Metal Door):
+    coord: [-145.5,-1095]
+- _Shrine::SaasKosah:
+    comment: Grab axe
+- _Material<Lizalfos Tail,3>:
+    icon: malice
+    coord: [-236, -1174.75]
+- _Chest::Special<Star Fragment>:
+    coord: [-223.5, -1174.5]
+    comment: In water
+- _Korok::X01
+- Use gale:
+    coord: [-293.5,-1154.5]
+    icon: medoh-done
+- _Chest<Bomb Arrow x5>:
+    coord: [-293.25, -1132.25]
+- Climb up
+- _Korok::X03
+- _Chest<Ancient Arrow x5>:
+    coord: [-258.5625, -1064.4375]
+- _Korok::X06:
+    comment: Mid-high of castle
+- _Korok::X05:
+    comment: Top of castle
+- _Korok::X10
+- .important(Ganon):
+    icon: calamity
+    coord: [-261.375, -1047]
+- .important(Dark Beast):
+    icon: ganon
+    notes: This now gives us the star and % markers, which are useful for backing anything up. Re-load the game
+    counter: .dungeon-complete(SPLIT)
+- _Chest<Naydra's Scale>:
+    coord: [-177, -1166.75]
+- _Korok::X02
+- _Chest<Dinraal's Scale>:
+    coord: [-176.625, -1192.625]
+- _Korok::K30
+- _Korok::K28
+- _Korok::K27
+- Tree Launch to Settlement:
+    coord: [-390,-1723]
+- _Discover<Rauru Settlement Ruins>:
+    coord: [700, -1241]
+- _Tod::Noon:
+    coord: [1075.75, -1125.5]
+- Talk to .npc(Shamae):
+    icon: npc
+    notes: Ballon Flight
+    coord: [1077.25, -1127.625]
+- Make a barrel fly with octo ballon:
+    notes: Ballon Flight
+    icon: tots
+    coord: [1075.9375,-1128.625]
+- _Korok::K34
+- _Korok::K33
+- _Shrine::MirroShaz
+- Use gale:
+    coord: [1239.5625,-1193]
+    icon: medoh-done
+- _Material<Lizalfos Tail,2>:
+    icon: malice
+    comment: 2 if lucky
+    coord: [1292, -1238.5]
+- _Korok::E35
+- _Material<Lizalfos Tail,2>:
+    icon: malice
+    coord: [1197, -1258.5]
+- _Korok::K32
+- _Discover<Military Training Camp>:
+    coord: [898.25,-1399]
+- _Korok::K31
+- Use gale:
+    coord: [982.75,-1577.75]
+    icon: medoh-done
+- Use gale:
+    coord: [941,-1624.5]
+    icon: medoh-done
+- _Tower::Woodland

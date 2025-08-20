@@ -1,0 +1,22 @@
+- Tree Launch to A41:
+    coord: [3066,-1614]
+- _Korok::A41
+- _Korok::A40
+- _Korok::A39
+- Box Launch up to tower
+- _Tower::Akkala
+- _Korok::A42
+- _Korok::A43
+- Tree Launch to A46:
+    coord: [3301.5,-1431.5]
+- _Korok::A46
+- Tree Launch to Loc:
+    coord: [3417,-1268.5]
+- _Discover<Akkala Bridge Ruins>:
+    coord: [3134,-1403]
+- Get Rock of A45:
+    coord: [3097,-1343]
+    icon: tots
+- _Korok::A45
+- _Korok::A50
+- _Warp::Shrine::MonyaToma

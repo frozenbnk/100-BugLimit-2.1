@@ -1,0 +1,157 @@
+- _Korok::D16
+- Use gale:
+    coord: [1140.5,1323.5]
+    icon: medoh-done
+    comment: Use cryonis to go acros the river
+- _Korok::D17
+- _Boss::Talus::Stone:
+    comment: Use 3 fury
+    coord: [1477, 1334]
+- _Korok::D18
+- _Korok::D19
+- Use gale:
+    coord: [1650,1296.5]
+    icon: medoh-done
+    comment: Use cryonis to go acros the river
+- _Korok::D09
+- _Tod::Morning:
+    coord: [1662.25,1162.5]
+- _Korok::D10
+- _Material<Energetic Rhino Beetle,1>:
+    icon: malice
+    coord: [1811.1626162938874,1049.9426078641163]
+- _Shop<Food Shop>:
+    coord: [1794.2002325877747,1029.3852157282327]
+    notes: Buy Carrots
+- _Cook<Speed Food>:
+    coord: [1794.75, 1012]
+    notes: Horn + 3 fleet + 1 carrot, .important(Keep 1 carrot for Koko Kitchen)
+- _Shop<Arrow Shop>:
+    comment: Buy all arrows
+    coord: [1832, 1043.25]
+- _Material<Energetic Rhino Beetle>:
+    icon: malice
+    coord: [1952.25,1061.4375]
+- _Korok::D11
+- _Tod::Morning:
+    coord: [2100,1126]
+    comment: For Naydra
+- Use gale:
+    coord: [2142,1085]
+    icon: medoh-done
+- _Korok::D07
+- _Korok::N11
+- _Korok::N13
+- .boss(Shoot Naydra):
+    comment: For horn
+    notes: Pray to have a good luck
+    icon: tots
+    coord: [2682,994]
+- _Korok::N04
+- _Material<Acorn,2>:
+    coord: [2454.75, 433.25]
+    comment: You should have 30
+- _Korok::N02
+- .boss(Ride deer to pedestal):
+    icon: tots
+    coord: [2535.9791661231975,359.7783881093628]
+- Talk to .npc(Kass):
+    icon: npc-rito
+    notes: THe Crowned Beast
+    coord: [2581.9791661231975,467.7783881093628]
+- _Shrine::MezzaLo
+- _Korok::N03
+- _Korok::Z42:
+    comment: Shot it from ground or go down and drownwarp
+- _Korok::N05
+- _Korok::N06
+- _Boss::Hinox::Blue:
+    comment: Use 3 fury
+    coord: [2983, 788]
+- Rock of Z51:
+    coord: [3211.5,702.5]
+    icon: tots
+- _Korok::Z51
+- _Korok::Z53
+- _Korok::Z52
+- _Shrine::RuccoMaag
+- _Tod::Morning:
+    coord: [3333.465668136854,418.3982561839239]
+- _Material<Lizalfos Tail,1>:
+    icon: malice
+    coord: [3376.5, 430.5]
+- Use gale:
+    coord: [3440.465668136854,389.8982561839239]
+    icon: medoh-done
+- _Boss::Hinox::Blue:
+    comment: Use Royal Claymore
+    coord: [3534.5, 369]
+- .boss(Shoot Naydra):
+    comment: Shoot horn
+    icon: tots
+    coord: [3522.5, 718.5]
+- _Tod::Morning:
+    coord: [3406, 960]
+- _Korok::N14
+- .boss(Shoot Naydra):
+    comment: Shoot claw
+    icon: tots
+    coord: [3546.5, 751]
+- _Tod::Morning:
+    coord: [3622, 626]
+- _Korok::Z54
+- _Korok::Z55
+- _Korok::N12
+- .boss(Shoot Naydra):
+    comment: Shoot scale
+    icon: tots
+    notes: May depend on how fast Naydra is
+- _Korok::Z45
+- _Material<Lizalfos Tail,1>:
+    icon: malice
+    coord: [3964, 398]
+- _Korok::Z35
+- _Tod::Morning:
+    coord: [4135.5, 79]
+- _Korok::Z36
+- _Korok::Z46
+- Talk to .npc(Kass):
+    icon: npc-rito
+    notes: Master of the Wind
+    coord: [4098.5, 402]
+- .boss(Shoot Naydra):
+    comment: Shoot horn
+    icon: tots
+    notes: SHOULD have 4 horn, 2 scale, 2 claw, 2 fang now
+    coord: [4013, 478]
+# TODO: FIX IF IT DOESN@T WORK
+- .boss(Break rocks):
+    coord: [4088.5,470.5]
+    icon: tots
+- .boss(Break rocks):
+    coord: [4161,487]
+    icon: tots
+- .boss(Break rocks):
+    coord: [4196,490]
+    icon: tots
+- _Korok::Z56
+- .boss(Drop onto pedestal):
+    movements:
+      - [4167.25,453.5]
+      - [4230.5,306.75]
+- _Shrine::ShaiYota:
+    comment: Grab flameblade in shrine
+- _Boss::Hinox::Blue:
+    comment: Use 3 fury
+    coord: [4445, 359]
+- _Korok::Z58
+- _Material<Lizalfos Tail,3>:
+    icon: malice
+    coord: [4317, 599]
+- _Korok::Z57
+- _Korok::Z59
+- _Korok::Z62
+- _Korok::Z61
+- _Warp::Tower::Faron:
+    notes: If you don't have 3 guardian pictures, you can warp to KATAH CHUKI -> Stalker, SHAE MO'SAH -> Nano (inside), KAH MAEL -> Wingged.
+    color: rgb(87, 166, 250)

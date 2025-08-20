@@ -1,0 +1,52 @@
+- _Chest<10x Arrows>:
+    coord: [-343, 1578]
+- Climb up tower
+- _Chest<5x Fire Arrows>:
+    coord: [-283, 1584.5]
+- .item(Tree Launch to horses):
+    coord: [-174, 1371.5]
+- Get horse with ice arrow:
+    icon: location
+    coord: [-275.5, 1070.5]
+- _Korok::C64
+- _Korok::C70
+- _Korok::C71
+- _Korok::C65
+- _Shrine::WahgoKatta
+- _Equipment::Weapon<Woodcutter's Axe>:
+    coord: [351, 1088]
+- Talk to .npc(Beedle):
+    icon: shop
+    notes: Sell ores, buy arrows and 1 Electric Darner
+    coord: [361.5, 1038.5]
+- Register horse:
+    notes: Keep using the horse, it's faster
+- _Korok::C77
+- _Chest::Special<Moblin Club>:
+    comment: Kill moblin
+    notes: The Weapon Connoisseur
+    coord: [139, 1398.5]
+- _Discover<Owlan Bridge>:
+    coord: [310.5,1271.5]
+- _Korok::D14:
+    notes: Use bombs to blow up acorn
+- _Material<Hearty Radish,1>:
+    notes: For hearty food, keep
+    coord: [525.3, 120.31, 1155.39]
+- _Korok::D13
+- _Korok::D22
+- _Korok::D23
+- _Korok::D15
+- _Korok::D25
+- _Boss::Talus::Stone:
+    comment: Use hammer
+    coord: [705.34, 137.62, 1471.88]
+- _Korok::D24
+- Tree launch to D28:
+    coord: [689.8333129882812,1415.3333358764648]
+- _Korok::D28:
+    notes: use stam food when climbing
+- _Korok::D29
+- Tree Launch up to tower:
+    coord: [843,1678]
+- _Tower::DuelingPeaks

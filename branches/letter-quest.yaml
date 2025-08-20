@@ -1,0 +1,31 @@
+- _Korok::Z22
+- _Korok::Z31
+- Talk to .npc(Finely):
+    comment: Start Letter quest
+    icon: npc-zora-female
+    coord: [2757, -86.5]
+- .item(shoot on Letter):
+    coord: [2780.5,-175]
+    icon: bow
+- Use gale:
+    coord: [2779.5,-189]
+    icon: medoh-done
+- _Korok::Z23
+- .item(Grab Letter):
+    icon: bow
+    coord: [2741.3333740234375,-98]
+- _Boss::Hinox::Black:
+    comment: Use 3 fury, Grab Claymore and bow
+    coord: [2477.5, -133]
+- _Discover<Inogo Bridge>:
+    coord: [2343,-250.5]
+- .boss(Deliver letter):
+    icon: tots
+    coord: [1761, -52]
+- _Warp::Shrine::DahHesho
+- Talk to .npc(Hudson):
+    comment: Give 50 wood
+    icon: npc
+    notes: From the Ground Up
+    coord: [3987, -1603.5]
+- _Warp::Beast::Ruta

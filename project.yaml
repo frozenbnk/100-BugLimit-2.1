@@ -1,0 +1,32 @@
+title: Bug Limit 100%
+version: 1.2.0
+
+route:
+  use: ./main.yaml
+
+config:
+- use: Pistonight/celer-presets/botw/full.yaml
+- icons:
+    malice: https://icons.pistonite.org/icon/misc.apple.none.f24c99.ffc0fa.f24c99.ffc0fa.f24c99.ffc0fa.png
+    purple: https://icons.pistonite.org/icon/misc.apple.none.613b75.b96cf5.613b75.b96cf5.613b75.b96cf5.png
+    horse: https://icons.pistonite.org/icon/misc.horse.none.69a2d5.c1fefe.8c5e28.ffffb5.8c5e28.ffffb5.png
+- tags:
+    custom-item:
+      color: purple
+      split-type: Extra Splits
+    dungeon-entry:
+      color: orange
+      split-type: Extra Splits
+    dungeon-complete:
+      color: purple
+      split-type: Extra Splits
+- splits:
+    - dungeon-entry
+    - dungeon-complete
+    - custom-item
+  plugins:
+  - use: variables
+  - use: split-format
+  - use: link
+    with:
+      Shrines: "[.var(pad02:counter-shrine)] .prop(text)"

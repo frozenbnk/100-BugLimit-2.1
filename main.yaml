@@ -1,0 +1,89 @@
+- This run folow MrPancakeTurtle's WR for this category, to follow along with the VODlinks to each part are here -> .link([VOD 1]https://youtu.be/J3MWwgrkk9M)
+  , .link([VOD 2]https://youtu.be/fcDLoHGBqCU) , .link([VOD 3]https://youtu.be/M27Chx0LEuk)
+  , .link([VOD 4]https://youtu.be/CUhW2MnjNXU)
+- .link([Here]https://docs.google.com/spreadsheets/d/1SMovk9HxD9_wqcsnHYNq8xmsclU6olqzI3pqu3QZ4Ro/edit#gid=722444247)
+  is a link to a doc of all the materials you can use. Please note any amiibo/DLC items are not allowed in this run.
+- Plateau:
+  - use: ./branches/plateau.yaml
+- Plateau Cleanup:
+  - use: ./branches/plateau-cleanup.yaml
+- Central 1:
+  - use: ./branches/central-1.yaml
+- Dueling Peaks 1:
+  - use: ./branches/dueling-peaks-1.yaml
+- Faron 1:
+  - use: ./branches/faron-1.yaml
+- Necluda 1:
+  - use: ./branches/necluda-1.yaml
+- Kakariko Quests:
+  - use: ./branches/kakariko-quests.yaml
+- Eventide:
+  - use: ./branches/eventide.yaml
+- Central 2:
+  - use: ./branches/central-2.yaml
+- Castle:
+  - use: ./branches/castle.yaml
+- Ridgeland:
+  - use: ./branches/ridgeland.yaml
+- Tabantha:
+  - use: ./branches/tabantha.yaml
+- Gerudo Canyon 1:
+  - use: ./branches/gerudo-canyon-1.yaml
+- Gerudo 1:
+  - use: ./branches/gerudo-1.yaml
+- House Upgrades:
+  - use: ./branches/house-upgrades.yaml
+- Naboris:
+  - use: ./branches/naboris.yaml
+- Dinraal:
+  - use: ./branches/dinraal.yaml
+- Mount Satori 1:
+  - use: ./branches/mount-satori-1.yaml
+- Lanayru 1:
+  - use: ./branches/lanayru-1.yaml
+- Maw of Death Mountain:
+  - use: ./branches/maw-of-death-mountain.yaml
+- Eldin:
+  - use: ./branches/eldin.yaml
+- Gerudo 2:
+  - use: ./branches/gerudo-2.yaml
+- To Korok Forest:
+  - use: ./branches/to-korok-forest.yaml
+- Lost Woods:
+  - use: ./branches/lost-woods.yaml
+- Gerudo 3:
+  - use: ./branches/gerudo-3.yaml
+- Rito 2:
+  - use: ./branches/rito-2.yaml
+- Hateno 2:
+  - use: ./branches/hateno-2.yaml
+- Letter Quest:
+  - use: ./branches/letter-quest.yaml
+- Lanayru 2:
+  - use: ./branches/lanayru-2.yaml
+- Dueling Peaks 2:
+  - use: ./branches/dueling-peaks-2.yaml
+- Faron 2:
+  - use: ./branches/faron-2.yaml
+- Central 3:
+  - use: ./branches/central-3.yaml
+- Satori 2:
+  - use: ./branches/satori-2.yaml
+- Gerudo Canyon 2:
+  - use: ./branches/gerudo-canyon-2.yaml
+- Naydra:
+  - use: ./branches/naydra.yaml
+- Dueling Peaks 3:
+  - use: ./branches/dueling-peaks-3.yaml
+- Lake:
+  - use: ./branches/lake.yaml
+- Hebra:
+  - use: ./branches/hebra.yaml
+- Tabantha 2:
+  - use: ./branches/tabantha-2.yaml
+- Akkala Tower:
+  - use: ./branches/akkala-tower.yaml
+- Forgotten Temple:
+  - use: ./branches/forgotten-temple.yaml
+- Cleanup:
+  - use: ./branches/cleanup.yaml

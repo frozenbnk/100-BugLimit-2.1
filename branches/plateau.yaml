@@ -1,0 +1,78 @@
+- SOR:
+    comment: Don't clip
+    icon: sor
+    notes: Grab slate, open door, watch opening CS
+- Grab Axe:
+    icon: equipment
+    coord: [-905.5, 1866.5]
+- _Material<Hightail lizard>:
+    icon: malice
+    comment: Under rock
+    coord: [-897.25,1860.25]
+- _Korok::P10
+- Get quest from .npc(Zelda):
+    movements: 
+    - [-868,1872.25]
+    - [-857.75,1828]
+    - [-792.5, 1798.5]
+- _Material<Apple,2>:
+    coord: [-753.25,1781.25]
+    notes: Grab hyrule herb as well
+- _Equipment::Bow<Boko Bow>:
+    notes: Grab 5 arrows or more
+    coord: [-622.25, 1743.5]
+- _Equipment::Weapon<Boko Shield + Sword>:
+    icon: equipment
+    comment: Kill him with arrows
+    notes: If he drops arrows, get them
+    coord: [-583.5, 1701]
+- _Tower::GreatPlateau:
+    notes: Fall damage cancel off into old man CS
+- _Shrine::OmanAu:
+    comment: Sprint over
+- _Material<Hyrule Herb,5>:
+    coord: [-706.125, 1482.875]
+- _Korok::P01
+- _Chest<Fire arrows + Ice arrows>:
+    icon: chest
+    coord: [-777.625, 1558.9375]
+- _Korok::P02:
+    comment: From chests
+- _Warp::SOR
+- _Material<Hylian Shroom,3>:
+    notes: Left of SOR
+    coord: [-1067.75, 1805.25]
+- _Korok::P08:
+    notes: Can get this later
+- _Shrine::KehNamut:
+    notes: Climb up from north side
+- _Korok::P15
+- _Korok::P16:
+    movements:
+    - [-1378.75,2295]
+    - [-1322.5,2328.25]
+    - [-1296,2334.75]
+    - [-1204.375,2322.75]
+    notes: .link([Push slab with axe and magnesis] https://youtu.be/J3MWwgrkk9M?si=pfnnzYeR9QgLSZCb&t=1115)
+- _Korok::P17
+- Iron Sledgehammer:
+    icon: equipment
+    notes: For ores, taluses, and tree launches
+    coord: [-961, 2321]
+- _Shrine::OwaDaim:
+    comment: Get hammer inside
+- Traveller's Bow:
+    icon: bow
+    coord: [-948.25, 2331]
+- Boulder Launch off cliff:
+    coord: [-945,2324]
+- Tree Launch to Bombs:
+    coord: [-676,2121]
+- _Shrine::JaBaij
+- Tree Launch up to ToT:
+    coord: [-644,2076]
+- Paraglider:
+    comment: from Old Man
+    icon: king
+    counter: custom-item
+    coord: [-813, 1966.75]

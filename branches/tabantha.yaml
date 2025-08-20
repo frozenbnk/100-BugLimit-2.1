@@ -1,0 +1,144 @@
+- _Discover<Tabantha Great Bridge>:
+    coord: [-3001.75, -584.25]
+- _Korok::T34
+- _Material<Backup Rushroom>:
+    icon: purple
+    coord: [-3501,-622.5]
+    comment: Need 9, on cliffs
+- .boss(Open fairy fountain):
+    comment: 500 rupees
+    icon: tots
+    notes: Upgrade climbing set, need 15 electric keese wings, 9 keese wings, 9 rushroom,
+      and 15 hightail lizards, Backup lizards can be found west of Faron tower in
+      the beetle area
+    movements:
+    - to: [-3547, -744]
+- _Material<Endura Carrot,2>:
+    coord: [-3564.375, -730]
+- _Material<Silent Princess,2>:
+    coord: [-3525.5, -742.125]
+    icon: malice
+- _Korok::T33
+- _Material<Luminous Stone,2>:
+    coord: [-3424, -712]
+- _Korok::T31
+- _Boss::Talus::Rare:
+    coord: [-3256.5, -1081.75]
+    comment: Use stone smasher
+- _Korok::T25
+- Smash deposits:
+    icon: chest
+    coord: [-3140.75, -1102.75]
+- Kill .enemy(lizalfos):
+    comment: For parts and tails
+    notes: Use Halberd, drop it
+    icon: tots
+    coord: [-3101.5, -1284.5]
+- _Equipment::Weapon<Knight's Claymore>
+- _Korok::T22
+- _Discover<Rito Stable>:
+    coord: [-3237, -1723.75]
+- _Material<Wood>:
+    coord: [-3230.75, -1744.75]
+- _Material<Wildberry,10>:
+    coord: [-3223, -1763.5]
+- _Material<Spicy Pepper,6>
+- Talk to .npc(Beedle):
+    icon: shop
+    notes: Buy arrows, 3 warm darner
+    coord: [-3250.5, -1750.25]
+- _Material<1 Voltfin Trout>:
+    icon: malice
+    comment: RNG, from octorok
+    coord: [-3280, -1683.5]
+- Save/reload
+- _Material<Wood>:
+    coord: [-3278.75, -1720.25]
+- _Equipment::Weapon<Woodcutter's Axe>:
+    coord: [-3274.75, -1735.5]
+- Drop Phrenic Bow:
+    icon: bow
+- Tree Launch to Goddess Statue:
+    coord: [-3294.436649822813,-1780.8759311526583]
+- Watch Medoh CS:
+    icon: tots
+    coord: [-3456.25, -1866]
+- Talk to .npc(statue):
+    comment: 4 stamina
+    icon: link
+    coord: [-3587.5, -1812]
+- _Shop<Item Shop>:
+    comment: Buy everything
+    coord: [-3643.5, -1816.5]
+- _Shrine::AkhVaquot
+- Talk to .npc(Kaneli):
+    icon: npc-rito
+    notes: Divine Beast Vah Medoh
+    coord: [-3630, -1831]
+- Talk to .npc(Saki):
+    comment: Revali memory
+    icon: npc-rito
+    coord: [-3609.5, -1820.5]
+- Tree Launch up to T04:
+    coord: [-3628.5,-1860]
+- _Korok::T04
+- _Shrine::ShaWarvo:
+    comment: Drop Soldier's Bow
+- _Korok::T02
+- _Equipment::Bow<Swallow Bow>:
+    coord: [-3789.25, -2324.125]
+- _Cook<Cook cold food>:
+    comment: 3 peppers, 2 sunshroom
+    notes: Optional
+- Talk to .npc(Teba):
+    comment: Do target minigame
+    icon: npc-rito
+    coord: [-3800.75, -2312.625]
+- _Chest<Falcon Bow>:
+    coord: [-3801.75, -2315.25]
+- Enter Vah Medoh:
+    icon: medoh-enter
+    notes: 2 bomb arrows per cannon
+    counter: .dungeon-entry(SPLIT)
+    coord: [-3541, -1937]
+- _Chest<Ancient Core>:
+    comment: In divine beast
+- _Chest<Ice Arrow x10>:
+    comment: In divine beast
+- .boss(Complete Divine Beast):
+    icon-doc: tots
+- _Snap<Windblight Ganon>
+- .boss(Windblight Ganon):
+    comment: 2-cycle it
+    icon: ganon
+    notes: 2-cycle with RGB and bomb arrows
+- .important(Revali's Gale):
+    icon: medoh-done
+    counter: .dungeon-complete(SPLIT)
+    coord: [-3585.5, -1802.875]
+- _Material<Cold Darner,1>:
+    comment: exit revali's gale text box, spam A button and walk to the right
+    coord: [-3566.5, -1816]
+- Talk to .npc(Bedoli):
+    icon: npc-rito
+    notes: The Ancient Rito Song
+    coord: [-3563.625, -1807.625]
+- Talk to .npc(Kaneli):
+    icon: npc-rito
+    notes: Divine Beast Vah Medoh
+    coord: [-3627, -1829.125]
+- _Chest<Great Eagle Bow>:
+    comment: Drop RGB
+    icon: bow
+    coord: [-3627.75, -1828.25]
+- Tree Launch to Kheel:
+    coord: [-3665.5,-1783]
+- Talk to .npc(Kheel):
+    icon: npc-rito
+    notes: Recital at Warbler's Nest
+    coord: [-3975.75, -1738.25]
+- _Material<Hearty Truffle,1>:
+    coord: [-4025.25, -1754.25]
+- _Korok::T13
+- _Warp::Shrine::KehNamut:
+    color: green

@@ -1,0 +1,52 @@
+- _Korok::P14
+- _Korok::W22
+- _Korok::W27
+- _Korok::W21
+- _Korok::W20
+- _Korok::G36
+- _Shrine::JeeNoh
+- _Korok::W26
+- Use gale:
+    icon: medoh-done
+    coord: [-2006.5,2219.5]
+- _Korok::W14
+- _Boss::Talus::Luminous:
+    comment: Use GEB + bomb arrow
+    coord: [-1888, 2042]
+- _Boss::Talus::Luminous:
+    comment: Use Stone Smasher
+    coord: [-2273, 1980]
+- _Korok::W11
+- Kill .enemy(Fire Wizzrobe):
+    comment: For fire rod
+    icon: equipment
+    coord: [-2169.75, 2134]
+- _Korok::W12
+- _Korok::W16
+- _Korok::W23
+- _Korok::W24
+- _Korok::W33
+- Use gale:
+    icon: medoh-done
+    coord: [-2261,2588.5]
+- _Korok::W32
+- _Korok::W31
+- _Tower::Wasteland:
+    comment: Crate launch up
+- Smash deposits:
+    icon: chest
+    coord: [-2445, 2219]
+- _Korok::G35:
+    notes: Tight, don't mess up
+- Use gale:
+    icon: medoh-done
+    coord: [-2852,2174.5]
+- _Boss::Talus::Luminous:
+    comment: Use GEB + bomb arrow
+    coord: [-2892, 2208.5]
+- _Korok::W19
+- _Chest<Gerudo Bow>:
+    comment: Don't break it, you need it for a ballon at Eldin
+    coord: [-2857.375,2320.75]
+- _Shrine::KayNoh:
+    color: pink
